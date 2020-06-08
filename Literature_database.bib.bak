@@ -2578,15 +2578,6 @@
   publisher = {MIT Press},
 }
 
-@TechReport{goldin1999returns,
-  author      = {Goldin, Claudia and Katz, Lawrence F},
-  institution = {National bureau of economic research},
-  title       = {The returns to skill in the United States across the twentieth century},
-  year        = {1999},
-  file        = {:Files/Goldin_Katz-1999-The_returns_to_skill_in_the_united_states_across_the_twentieth_century.pdf:PDF},
-  groups      = {Mobility Trends},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
