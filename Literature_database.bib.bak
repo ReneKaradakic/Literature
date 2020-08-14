@@ -2592,7 +2592,7 @@
   journal = {The Quarterly Journal of Economics},
   title   = {Income segregation and intergenerational mobility across colleges in the united states},
   year    = {2019},
-  file    = {:Files/Chetty_et_al-2020-Income_segregation_and_intergenerational_mobility_across_colleges_in_the_United_States.pdf:PDF},
+  file    = {:Files/Chetty_et_al-2020-Income_segregation_and_intergenerational_mobility_across_colleges_in_the_United_States.pdf:PDF;:Files/Chetty_et_al-2020-Income_segregation_and_intergenerational_mobility_across_colleges_in_the_United_States_published.pdf:PDF},
   groups  = {Mobility Trends},
 }
 
@@ -2622,6 +2622,76 @@
   publisher = {University of Chicago Press Chicago, IL},
 }
 
+@Article{nybom2016heterogeneous,
+  author    = {Nybom, Martin and Stuhler, Jan},
+  journal   = {Journal of Human Resources},
+  title     = {Heterogeneous income profiles and lifecycle bias in intergenerational mobility estimation},
+  year      = {2016},
+  number    = {1},
+  pages     = {239--268},
+  volume    = {51},
+  file      = {:Files/Nybom_Stuhler-2016-Heterogeneous_income_profiles_and_lifecyle_bias_in_intergenerational_mobility_estimation.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {University of Wisconsin Press},
+}
+
+@Article{10.1257/app.20180426,
+  author  = {Porter, Catherine and Serra, Danila},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Gender Differences in the Choice of Major: The Importance of Female Role Models},
+  year    = {2020},
+  month   = {July},
+  number  = {3},
+  pages   = {226-54},
+  volume  = {12},
+  doi     = {10.1257/app.20180426},
+  file    = {:Files/Porter_Serra-2020-Gender_differences_in_the_choice_of_major_the_importance_of_female_role_models.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/app.20180426},
+}
+
+@InCollection{connolly2020parental,
+  author    = {Connolly, Marie and Haeck, Catherine and Lalibert{\'e}, Jean-William P},
+  booktitle = {Measuring and Understanding the Distribution and Intra/Inter-Generational Mobility of Income and Wealth},
+  publisher = {University of Chicago Press},
+  title     = {Parental Education Mitigates the Rising Transmission of Income between Generations},
+  year      = {2020},
+  file      = {:Files/Connolly_et_al-2020-Parental_Education_and_the_rising_transmission_of_income_between_generations.pdf:PDF},
+  groups    = {Mobility Trends},
+}
+
+@Article{landerso2017scandinavian,
+  author    = {Landers{\o}, Rasmus and Heckman, James J},
+  journal   = {The Scandinavian journal of economics},
+  title     = {The Scandinavian fantasy: The sources of intergenerational mobility in Denmark and the US},
+  year      = {2017},
+  number    = {1},
+  pages     = {178--230},
+  volume    = {119},
+  file      = {:Files/Landerso_Heckman-2017-The_Scandinavian_Fantasy_the_sources_of_intergenerational_mobility_in_Denmark_and_the_US.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {Wiley Online Library},
+}
+
+@Article{berman2018long,
+  author  = {Berman, Yonatan},
+  journal = {Available at SSRN 3269831},
+  title   = {The long run evolution of absolute intergenerational mobility},
+  year    = {2018},
+  groups  = {Mobility Trends},
+}
+
+@TechReport{manduca2019trends,
+  author      = {Manduca, Robert and Hell, Maximilian and Adermon, Adrian and Blanden, Jo and Bratberg, Espen and Lee, Keun Bok and Machin, Stephen and Munk, Martin D and Nybom, Martin and Ostrovsky, Yuri and others},
+  institution = {Mimeo},
+  title       = {Trends in Absolute Income Mobility in North America and Europe},
+  year        = {2019},
+  file        = {:Files/Manduca_et_al-2020-Trends_in_absolute_mobility.pdf.pdf:PDF},
+  groups      = {Mobility Trends},
+}
+
+@Article{,
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -2632,5 +2702,5 @@
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
 1 KeywordGroup:Mortality project\;0\;title\;mortality\;0\;0\;1\;0x4d3399ff\;\;\;;
 1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;\;\;\;;
-1 StaticGroup:Mobility Trends\;0\;1\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
+1 StaticGroup:Mobility Trends\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
 }
