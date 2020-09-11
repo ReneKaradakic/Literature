@@ -1357,12 +1357,12 @@
 
 @Article{alsan2019watersheds,
   author    = {Alsan, Marcella and Goldin, Claudia},
-  title     = {Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880--1920},
   journal   = {Journal of Political Economy},
+  title     = {Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880--1920, mortality},
   year      = {2019},
-  volume    = {127},
   number    = {2},
   pages     = {586--638},
+  volume    = {127},
   file      = {:Files/Alsan_Goldin-2019-Watersheds_in_child_mortality.pdf:PDF},
   groups    = {Mental Health},
   publisher = {The University of Chicago Press Chicago, IL},
@@ -1771,8 +1771,8 @@
 
 @Article{butikofer2015disease,
   author  = {Butikofer, Aline and Salvanes, Kjell G},
-  title   = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign},
   journal = {NHH Dept. of Economics Discussion Paper},
+  title   = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign, mortality},
   year    = {2015},
   number  = {28},
   file    = {:Files/Bütikofer_Salvanes-2015-Disease_control_and_inequality_reduction.pdf:PDF},
@@ -1823,8 +1823,8 @@
 
 @Article{bhalotra2015shadows,
   author  = {Bhalotra, Sonia R and Venkataramani, Atheendar},
-  title   = {Shadows of the captain of the men of death: Early life health interventions, human capital investments, and institutions},
   journal = {Human Capital Investments, and Institutions (August 8, 2015)},
+  title   = {Shadows of the captain of the men of death: Early life health interventions, human capital investments, and institutions, mortality},
   year    = {2015},
   file    = {:Files/Bhalotra_Venkataramani-2015-Shadows_of_the_captain_of_the_men_of_death.pdf:PDF},
 }
@@ -2137,13 +2137,14 @@
 
 @Article{mogstad2017human,
   author    = {Mogstad, Magne},
-  title     = {The human capital approach to intergenerational mobility},
   journal   = {Journal of Political Economy},
+  title     = {The human capital approach to intergenerational mobility},
   year      = {2017},
-  volume    = {125},
   number    = {6},
   pages     = {1862--1868},
+  volume    = {125},
   file      = {:Files/Mogstad-2017-The_human_capital_approach_to_intergenerational_mobility.pdf:PDF},
+  groups    = {Mobility Trends},
   publisher = {University of Chicago Press Chicago, IL},
 }
 
@@ -2183,17 +2184,6 @@
   pages     = {1947--1994},
   file      = {:Files/Yanagizawa-Drott-2014-Propaganda_and_conflict_Evidence_from_the_Rwanda_Genocide.pdf:PDF},
   publisher = {MIT Press},
-}
-
-@Book{dahl1975hallo,
-  author    = {Dahl, Hans Fredrik},
-  publisher = {Cappelens},
-  title     = {Hallo--hallo!: Kringkastingen i Norge, 1920-1940, mortality, radio},
-  year      = {1975},
-  volume    = {1},
-  groups    = {Auxilliary},
-  timestamp = {2020-02-04},
-  url       = {https://www.nb.no/nbsok/nb/ea7b77409a405b91dd7b27ad7669a3f0?index=1#265},
 }
 
 @Article{hufford2002its,
@@ -2552,7 +2542,7 @@
   number    = {1},
   pages     = {72--101},
   volume    = {119},
-  file      = {:Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF},
+  file      = {:Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF;:/home/rene/Dropbox/NHH/Literature/Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF},
   groups    = {Mobility Trends},
   publisher = {Wiley Online Library},
 }
@@ -2612,7 +2602,7 @@
 @Article{bhuller2017life,
   author    = {Bhuller, Manudeep and Mogstad, Magne and Salvanes, Kjell G},
   journal   = {Journal of Labor Economics},
-  title     = {Life-cycle earnings, education premiums, and internal rates of return},
+  title     = {Life-cycle earnings, education premiums, and internal rates of return, mortality},
   year      = {2017},
   number    = {4},
   pages     = {993--1030},
@@ -2625,7 +2615,7 @@
 @Article{nybom2016heterogeneous,
   author    = {Nybom, Martin and Stuhler, Jan},
   journal   = {Journal of Human Resources},
-  title     = {Heterogeneous income profiles and lifecycle bias in intergenerational mobility estimation},
+  title     = {Heterogeneous income profiles and lifecycle bias in intergenerational mobility estimation, mortality},
   year      = {2016},
   number    = {1},
   pages     = {239--268},
@@ -2677,6 +2667,7 @@
   journal = {Available at SSRN 3269831},
   title   = {The long run evolution of absolute intergenerational mobility},
   year    = {2018},
+  file    = {:Files/Berman-2018-The_long_run_evolution_of_absolute_intergenerational_mobility.pdf:PDF},
   groups  = {Mobility Trends},
 }
 
@@ -2685,14 +2676,280 @@
   institution = {Mimeo},
   title       = {Trends in Absolute Income Mobility in North America and Europe},
   year        = {2019},
-  file        = {:Files/Manduca_et_al-2020-Trends_in_absolute_mobility.pdf.pdf:PDF},
+  file        = {:Files/Manduca_et_al-2020-Trends_in_absolute_mobility.pdf.pdf:PDF;:/home/rene/Dropbox/NHH/Literature/Files/Adermon_et_al-2020-Trends_in_absolute_mobility_in_north_america_and_europe.pdf:PDF},
   groups      = {Mobility Trends},
 }
 
-@Article{,
+@Article{chetty2017fading,
+  author    = {Chetty, Raj and Grusky, David and Hell, Maximilian and Hendren, Nathaniel and Manduca, Robert and Narang, Jimmy},
+  journal   = {Science},
+  title     = {The fading American dream: Trends in absolute income mobility since 1940},
+  year      = {2017},
+  number    = {6336},
+  pages     = {398--406},
+  volume    = {356},
+  file      = {:Files/Chetty_et_al-2017-The_fading_American_dream.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{bratsberg2018trends,
+  author    = {Bratsberg, Bernt and Markussen, Simen and Raaum, Oddbjorn and Roed, Knut and R{\o}geberg, Ole Jorgen},
+  title     = {Trends in assortative mating and offspring outcomes},
+  year      = {2018},
+  file      = {:Files/Bratsberg-2018-Trends_in_assortative_mating_and_offspring_outcomes.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {IZA Discussion Paper},
+}
+
+@Article{eika2019educational,
+  author    = {Eika, Lasse and Mogstad, Magne and Zafar, Basit},
+  journal   = {Journal of Political Economy},
+  title     = {Educational assortative mating and household income inequality},
+  year      = {2019},
+  number    = {6},
+  pages     = {2795--2835},
+  volume    = {127},
+  file      = {:Files/Eika_et_al-2019-Educational_assortative_mating_and_household_income_inequality.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {The University of Chicago Press Chicago, IL},
+}
+
+@Article{lakishagregaer,
+  author  = {Bertrand, Marianne and Mullainathan, Sendhil},
+  journal = {American Economic Review},
+  title   = {Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination},
+  year    = {2004},
+  month   = {September},
+  number  = {4},
+  pages   = {991-1013},
+  volume  = {94},
+  doi     = {10.1257/0002828042002561},
+  file    = {:Files/Bertrand_Mullainathan-2004-Are_Emily_and_Greg_more_employable_than_Lakisha_and_Jamal.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/0002828042002561},
+}
+
+@Article{bharadwaj2014smoking,
+  author    = {Bharadwaj, Prashant and Johnsen, Julian V and L{\o}ken, Katrine V},
+  journal   = {Journal of Public economics},
+  title     = {Smoking bans, maternal smoking and birth outcomes},
+  year      = {2014},
+  pages     = {72--93},
+  volume    = {115},
+  file      = {:Files/Bharadwaj_et_al-2014-Smoking_bans_maternal_smoking_and_birth_outcomes.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{caldwell2018outside,
+  author  = {Caldwell, Sydnee and Danieli, Oren},
+  journal = {Unpublished manuscript},
+  title   = {Outside options in the labor market},
+  year    = {2018},
+  file    = {:Files/Caldwell_Danieli-2018-Outside_options_in_the_labor_market.pdf:PDF},
+}
+
+@TechReport{benmelech2018strong,
+  author      = {Benmelech, Efraim and Bergman, Nittai and Kim, Hyunseob},
+  institution = {National Bureau of Economic Research},
+  title       = {Strong employers and weak employees: How does employer concentration affect wages?},
+  year        = {2018},
+  file        = {:Files/Benmelech_et_al-2018-Strong_employers_and_weak_employees.pdf:PDF},
+}
+
+@Manual{datatablekey,
+  title  = {data.table: Extension of `data.frame`},
+  author = {Matt Dowle and Arun Srinivasan},
+  note   = {R package version 1.12.8},
+  year   = {2019},
+  groups = {R Citations},
+  url    = {https://CRAN.R-project.org/package=data.table},
+}
+
+@Article{tidyversecitation,
+  author  = {Hadley Wickham and Mara Averick and Jennifer Bryan and Winston Chang and Lucy D'Agostino McGowan and Romain François and Garrett Grolemund and Alex Hayes and Lionel Henry and Jim Hester and Max Kuhn and Thomas Lin Pedersen and Evan Miller and Stephan Milton Bache and Kirill Müller and Jeroen Ooms and David Robinson and Dana Paige Seidel and Vitalie Spinu and Kohske Takahashi and Davis Vaughan and Claus Wilke and Kara Woo and Hiroaki Yutani},
+  journal = {Journal of Open Source Software},
+  title   = {Welcome to the {tidyverse}},
+  year    = {2019},
+  number  = {43},
+  pages   = {1686},
+  volume  = {4},
+  doi     = {10.21105/joss.01686},
+  groups  = {R Citations},
+}
+
+@Manual{colorbrewerR,
+  title  = {RColorBrewer: ColorBrewer Palettes},
+  author = {Erich Neuwirth},
+  note   = {R package version 1.1-2},
+  year   = {2014},
+  groups = {R Citations},
+  url    = {https://CRAN.R-project.org/package=RColorBrewer},
+}
+
+@Manual{rcoreteam,
+  title        = {R: A Language and Environment for Statistical Computing},
+  address      = {Vienna, Austria},
+  author       = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  year         = {2020},
+  groups       = {R Citations},
+  url          = {https://www.R-project.org/},
+}
+
+@Article{kreiner2020lower,
+  author    = {Kreiner, Claus Thustrup and Reck, Daniel and Skov, Peer Ebbesen},
+  journal   = {Review of Economics and Statistics},
+  title     = {Do lower minimum wages for young workers raise their employment? Evidence from a Danish discontinuity},
+  year      = {2020},
+  number    = {2},
+  pages     = {339--354},
+  volume    = {102},
+  file      = {:Files/Kreiner_et_al-2020-Do_lower_minimum_wages_for_young_workers_raise_their_employment.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{bursztyn2017acting,
+  author  = {Bursztyn, Leonardo and Fujiwara, Thomas and Pallais, Amanda},
+  journal = {American Economic Review},
+  title   = {'Acting Wife': Marriage Market Incentives and Labor Market Investments},
+  year    = {2017},
+  number  = {11},
+  pages   = {3288--3319},
+  volume  = {107},
+  file    = {:Files/Bursztyn_et_al-2017-Acting_wife_marriage_market_incentives_and_labor_market_investmenst.pdf:PDF},
+}
+
+@Article{bjorklund2006origins,
+  author    = {Bj{\"o}rklund, Anders and Lindahl, Mikael and Plug, Erik},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {The origins of intergenerational associations: Lessons from Swedish adoption data},
+  year      = {2006},
+  number    = {3},
+  pages     = {999--1028},
+  volume    = {121},
+  file      = {:Files/Bjoerklund_et_al-2006-The_origins_of_intergenerational_mobility_associations.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {MIT Press},
+}
+
+@Article{bjorklund2009family,
+  author    = {Bj{\"o}rklund, Anders and J{\"a}ntti, Markus and Lindquist, Matthew J},
+  journal   = {Journal of Public Economics},
+  title     = {Family background and income during the rise of the welfare state: brother correlations in income for Swedish men born 1932--1968},
+  year      = {2009},
+  number    = {5-6},
+  pages     = {671--680},
+  volume    = {93},
+  file      = {:Files/Bjoerklund_et_al-2009-Family_background_and_income_during_the_rise_of_the_welfare_state.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {Elsevier},
+}
+
+@Article{pekkala2007differences,
+  author    = {Pekkala, Sari and Lucas, Robert EB},
+  journal   = {Industrial Relations: A Journal of Economy and Society},
+  title     = {Differences across cohorts in Finnish intergenerational income mobility},
+  year      = {2007},
+  number    = {1},
+  pages     = {81--111},
+  volume    = {46},
+  file      = {:Files/Pekkala_Lucas-2007-Difference_across_cohorts_in_Finish_intergenerational_incom_mobility.pdf:PDF},
+  groups    = {Mobility Trends},
+  publisher = {Wiley Online Library},
+}
+
+@Article{beach2016typhoid,
+  author    = {Beach, Brian and Ferrie, Joseph and Saavedra, Martin and Troesken, Werner},
+  journal   = {The Journal of Economic History},
+  title     = {Typhoid fever, water quality, and human capital formation, mortality},
+  year      = {2016},
+  number    = {1},
+  pages     = {41--75},
+  volume    = {76},
+  file      = {:Files/Beach_et_al-2016-Typhoid_fever_water_quality_and_human_capital_formation.pdf:PDF},
+  publisher = {Cambridge University Press},
+}
+
+@Article{lee1999trend,
+  author    = {Lee, Kwang-sun and Khoshnood, Babak and Wall, Stephen N and Chang, Young-pyo and Hsieh, Hui-Lung and Singh, Jaideep K},
+  journal   = {The Journal of pediatrics},
+  title     = {Trend in mortality from respiratory distress syndrome in the United States, 1970-1995},
+  year      = {1999},
+  number    = {4},
+  pages     = {434--440},
+  volume    = {134},
+  file      = {:Files/Lee_et_al-1998-Trend_in_mortality_from_respiratory_distrees_syndrome_in_the_US.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{jorgensen2010born,
+  author  = {Jorgensen, Anne M},
+  journal = {NICU Currents},
+  title   = {Born in the USA--the history of neonatology in the United States: a century of caring, mortality},
+  year    = {2010},
+  number  = {1},
+  pages   = {8--11},
+  volume  = {1},
+  file    = {:Files/Jorgensen-2010-Born_in_the_USA.pdf:PDF},
+}
+
+@TechReport{NBERw27737,
+  author      = {Dettmer, Amanda M and Heckman, James J and Pantano, Juan and Ronda, Victor and Suomi, Stephen J},
+  institution = {National Bureau of Economic Research},
+  title       = {Intergenerational Effects of Early-Life Advantage: Lessons from a Primate Study},
+  year        = {2020},
+  month       = {August},
+  number      = {27737},
+  type        = {Working Paper},
+  doi         = {10.3386/w27737},
+  file        = {:Files/Dettmer_et_al-2020-Intergenerational_effects_of_early_life_advantage_lessons_from_primate_study.pdf:PDF},
+  groups      = {Mobility Trends},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w27737},
+}
+
+@Article{dinkelman2011effects,
+  author  = {Dinkelman, Taryn},
+  journal = {American Economic Review},
+  title   = {The effects of rural electrification on employment: New evidence from South Africa},
+  year    = {2011},
+  number  = {7},
+  pages   = {3078--3108},
+  volume  = {101},
+  file    = {:Files/Dinkelman-2011-The_effects_of_rural_electrification_on_employment.pdf:PDF},
+}
+
+@Article{artmann2019doctors,
+  author    = {Artmann, Elisabeth and Oosterbeek, Hessel and Klaauw, Bas},
+  title     = {Do doctors improve the health care of their parents? Evidence from admission lotteries},
+  year      = {2019},
+  file      = {:Files/Artmann_et_al-2020-Do_doctors_improve_the_health_care_of_their_parents.pdf:PDF},
+  publisher = {CEPR Discussion Paper No. DP14061},
+}
+
+@Article{black2013under,
+  author    = {Black, Sandra E and Devereux, Paul J and Salvanes, Kjell G},
+  journal   = {Journal of Labor Economics},
+  title     = {Under pressure? The effect of peers on outcomes of young adults},
+  year      = {2013},
+  number    = {1},
+  pages     = {119--153},
+  volume    = {31},
+  file      = {:Files/Black_et_al-2013-Under_pressure_the_effect_of_peers_on_outcomes_of_young_adults.pdf:PDF},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@Article{bensnesfertility,
+  author  = {Bensnes, Simon and Huitfeldt, Ingrid and Leuven, Edwin},
+  journal = {IZA Working Paper},
+  title   = {Event Studies, Endogenous Timing and the Child Penalty},
+  year    = {2020},
+  url     = {2020},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
@@ -2700,7 +2957,8 @@
 2 StaticGroup:[s13906:]\;2\;1\;\;\;\;;
 1 StaticGroup:Mental Health\;0\;1\;0x006400ff\;\;Literature related to mental health, physical, fetal origins hypothesis and the long term economic consequences of (mental) health shocks\;;
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
-1 KeywordGroup:Mortality project\;0\;title\;mortality\;0\;0\;1\;0x4d3399ff\;\;\;;
+1 KeywordGroup:Mortality project\;0\;title\;mortality\;0\;0\;0\;0x4d3399ff\;\;\;;
 1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;\;\;\;;
 1 StaticGroup:Mobility Trends\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
+1 StaticGroup:R Citations\;0\;1\;0x8a8a8aff\;\;\;;
 }
