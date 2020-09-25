@@ -2756,7 +2756,7 @@
   file        = {:Files/Benmelech_et_al-2018-Strong_employers_and_weak_employees.pdf:PDF},
 }
 
-@Manual{datatablekey,
+@Manual{datapackager,
   title  = {data.table: Extension of `data.frame`},
   author = {Matt Dowle and Arun Srinivasan},
   note   = {R package version 1.12.8},
@@ -2946,6 +2946,62 @@
   year    = {2020},
   file    = {:Files/Bensnes_et_al-2020-Fertility_and_labor_supply.pdf:PDF},
   url     = {http://conference.iza.org/conference_files/EVAL_2019/bensnes_s28740.pdf},
+}
+
+@Article{karlson2020making,
+  author = {Karlson, Kristian B and Landers{\o}, Rasmus},
+  title  = {The Making and Unmaking of Educational Opportunity: Intergenerational Educational Mobility in 20th Century-Denmark},
+  year   = {2020},
+  file   = {:Files/Karlson_Landersoe-2020-The_making_and_unmaking_of_educational_opportunity.pdf:PDF},
+  groups = {Mobility Trends},
+}
+
+@InCollection{fortin2011decomposition,
+  author    = {Fortin, Nicole and Lemieux, Thomas and Firpo, Sergio},
+  booktitle = {Handbook of labor economics},
+  publisher = {Elsevier},
+  title     = {Decomposition methods in economics},
+  year      = {2011},
+  pages     = {1--102},
+  volume    = {4},
+  file      = {:Files/Fortin_et_al-2010-Decomposition_methods_in_economics.pdf:PDF},
+}
+
+@Article{sfpackager,
+  author  = {Edzer Pebesma},
+  journal = {{The R Journal}},
+  title   = {{Simple Features for R: Standardized Support for Spatial Vector Data}},
+  year    = {2018},
+  number  = {1},
+  pages   = {439--446},
+  volume  = {10},
+  doi     = {10.32614/RJ-2018-009},
+  groups  = {R Citations},
+  url     = {https://doi.org/10.32614/RJ-2018-009},
+}
+
+@Article{tmappackager,
+  author  = {Martijn Tennekes},
+  journal = {Journal of Statistical Software},
+  title   = {{tmap}: Thematic Maps in {R}},
+  year    = {2018},
+  number  = {6},
+  pages   = {1--39},
+  volume  = {84},
+  doi     = {10.18637/jss.v084.i06},
+  groups  = {R Citations},
+}
+
+@Article{mina2015long,
+  author    = {Mina, Michael J and Metcalf, C Jessica E and De Swart, Rik L and Osterhaus, ADME and Grenfell, Bryan T},
+  journal   = {Science},
+  title     = {Long-term measles-induced immunomodulation increases overall childhood infectious disease mortality},
+  year      = {2015},
+  number    = {6235},
+  pages     = {694--699},
+  volume    = {348},
+  file      = {:Files/Mina_et_al-2015-Long_term_measles_induced_immunomodulation_increases_overall_childhood_infectious_disease_mortality.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
