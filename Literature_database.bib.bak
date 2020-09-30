@@ -2992,6 +2992,18 @@
   groups  = {R Citations},
 }
 
+@Article{mina2015long,
+  author    = {Mina, Michael J and Metcalf, C Jessica E and De Swart, Rik L and Osterhaus, ADME and Grenfell, Bryan T},
+  journal   = {Science},
+  title     = {Long-term measles-induced immunomodulation increases overall childhood infectious disease mortality},
+  year      = {2015},
+  number    = {6235},
+  pages     = {694--699},
+  volume    = {348},
+  file      = {:Files/Mina_et_al-2015-Long_term_measles_induced_immunomodulation_increases_overall_childhood_infectious_disease_mortality.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
+}
+
 @Article{,
 }
 
