@@ -1225,7 +1225,7 @@
   year    = {2018},
   number  = {19},
   file    = {:Files/Bütikofer_et_al-2018-Breaking_the_link.pdf:PDF},
-  groups  = {Mental Health, Mobility Trends},
+  groups  = {Mental Health, Mobility},
 }
 
 @Article{black2010small,
@@ -1262,7 +1262,7 @@
   pages     = {1516-49},
   volume    = {127},
   file      = {:Files/Adhvaryu_et_al-2019-Early_life_circumstances_and_adult_mental_health.pdf:PDF},
-  groups    = {Mental Health, [s13906:]},
+  groups    = {Mental Health},
   publisher = {The University of Chicago Press Chicago, IL},
 }
 
@@ -1299,7 +1299,7 @@
   pages   = {1--22},
   volume  = {101},
   file    = {:Files/Currie-2011-Inequality_at_birth_some_causes_and_consequences.pdf:PDF},
-  groups  = {Mental Health, [s13906:]},
+  groups  = {Mental Health},
 }
 
 @Article{almond2018childhood,
@@ -1311,7 +1311,7 @@
   pages   = {1360--1446},
   volume  = {56},
   file    = {:Files/Almond_et_al-2018-Childhood_circumstances_and_adult_outcomes_act_II.pdf:PDF},
-  groups  = {Mental Health, [s13906:]},
+  groups  = {Mental Health},
 }
 
 @TechReport{golberstein2016economic,
@@ -1320,7 +1320,7 @@
   title       = {Economic conditions and children's mental health},
   year        = {2016},
   file        = {:Files/Golberstein_et_al-2016-Economic_conditions_and_childrens_mental_health.pdf:PDF},
-  groups      = {Mental Health, [s13906:]},
+  groups      = {Mental Health},
 }
 
 @Article{loken2012linear,
@@ -1344,7 +1344,7 @@
   pages   = {840--870},
   volume  = {9},
   file    = {:Files/Huttunen_et_al-2011-How_destructive_is_creative_destruction.pdf:PDF},
-  groups  = {Mental Health, [s13906:]},
+  groups  = {Mental Health},
 }
 
 @Article{lowes2018legacy,
@@ -1406,7 +1406,7 @@
   pages     = {136--144},
   volume    = {66},
   file      = {:Files/Bharadwaj_et_al-2019- Birth_weight_and_vulnerability_to_a_macroeconomic_crisis.pdf:PDF},
-  groups    = {Mental Health, [s13906:]},
+  groups    = {Mental Health},
   publisher = {Elsevier},
 }
 
@@ -1419,7 +1419,7 @@
   pages   = {101--28},
   volume  = {3},
   file    = {:Files/Lindqvist_Vestmann-2011-The_labor_market_returns_to_cognitive_and_noncognitive_ability.pdf:PDF},
-  groups  = {Mental Health, [s13906:]},
+  groups  = {Mental Health},
 }
 
 @Article{sullivan2009job,
@@ -1431,7 +1431,7 @@
   pages     = {1265--1306},
   volume    = {124},
   file      = {:Files/Sullivan_von_Wachter-2009-Job_displacement_and_mortality.pdf:PDF},
-  groups    = {Mental Health, [s13906:]},
+  groups    = {Mental Health},
   publisher = {MIT Press},
 }
 
@@ -1792,11 +1792,11 @@
 
 @Article{goldin2019xx,
   author    = {Goldin, Claudia and Lleras-Muney, Adriana},
-  title     = {XX> XY?: The changing female advantage in life expectancy},
   journal   = {Journal of health economics},
+  title     = {{XX{>} XY?}: The changing female advantage in life expectancy},
   year      = {2019},
-  volume    = {67},
   pages     = {102224},
+  volume    = {67},
   file      = {:Files/Goldin_Lleras-Muney-2019-The_changing_female_advantage_in_life_expectancy.pdf:PDF},
   publisher = {Elsevier},
 }
@@ -2144,7 +2144,7 @@
   pages     = {1862--1868},
   volume    = {125},
   file      = {:Files/Mogstad-2017-The_human_capital_approach_to_intergenerational_mobility.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {University of Chicago Press Chicago, IL},
 }
 
@@ -2472,7 +2472,7 @@
   pages     = {1553--1623},
   volume    = {129},
   file      = {:Files/Chetty_et_al-2014-Where_is_the_land_opportunity.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {Oxford University Press},
 }
 
@@ -2482,7 +2482,7 @@
   title       = {Inference for Ranks with Applications to Mobility across Neighborhoods and Academic Achievement across Countries},
   year        = {2020},
   file        = {:Files/Mogstad_et_al-2020-Inference_for_ranks_with_applications_to_mobility_across_neighborhoods_and_acadmic_achievement_across_countries.pdf:PDF},
-  groups      = {Mobility Trends},
+  groups      = {Mobility},
 }
 
 @Article{Davis2017,
@@ -2490,7 +2490,7 @@
   title     = {The decline in intergenerational mobility after 1980},
   year      = {2017},
   file      = {:Files/Davis_Mazumder-2020-The_decline_in_intergenearational_mobility_after_1980.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {FRB of Chicago Working Paper No. WP-2017-5},
 }
 
@@ -2503,7 +2503,7 @@
   pages   = {79--102},
   volume  = {27},
   file    = {:Files/Corak-2013-Income_inequality_equality_of_opportunity_and_intergenerational_mobility.pdf:PDF},
-  groups  = {Mobility Trends},
+  groups  = {Mobility},
 }
 
 @TechReport{athey2019surrogate,
@@ -2512,7 +2512,7 @@
   title       = {The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely},
   year        = {2019},
   file        = {:Files/Athey_et_al-2019-The_surrogate_index.pdf:PDF},
-  groups      = {Mobility Trends},
+  groups      = {Mobility},
 }
 
 @TechReport{liss2019american,
@@ -2521,17 +2521,20 @@
   title       = {The American Dream Lives in Sweden: Trends in intergenerational absolute income mobility},
   year        = {2019},
   file        = {:Files/Liss_et_al-2019-The_american_dream_lives_in_Sweden.pdf:PDF},
-  groups      = {Mobility Trends},
+  groups      = {Mobility},
 }
 
 @Article{pekkarinen2016evolution,
-  author  = {Pekkarinen, Tuomas and Salvanes, Kjell G and Sarvim{\"a}ki, Matti},
-  journal = {NHH Dept. of Economics Discussion Paper},
-  title   = {The evolution of social mobility: Norway over the 20th century},
-  year    = {2016},
-  number  = {02},
-  file    = {:Files/Pekkarinen_et_al-2016-The_evolution_of_social_mobility_Norway_over_the_20th_century.pdf:PDF},
-  groups  = {Mobility Trends},
+  author    = {Pekkarinen, Tuomas and Salvanes, Kjell G and Sarvim{\"a}ki, Matti},
+  journal   = {The Scandinavian Journal of Economics},
+  title     = {The evolution of social mobility: Norway during the twentieth century},
+  year      = {2017},
+  number    = {1},
+  pages     = {5--33},
+  volume    = {119},
+  file      = {:Files/Pekkarinen_et_al-2016-The_evolution_of_social_mobility_Norway_over_the_20th_century.pdf:PDF},
+  groups    = {Mobility},
+  publisher = {Wiley Online Library:Files/Pekkarinen_et_al-2016-The_evolution_of_social_mobility_Norway_over_the_20th_century.pdf:PDF},
 }
 
 @Article{bratberg2017comparison,
@@ -2542,8 +2545,8 @@
   number    = {1},
   pages     = {72--101},
   volume    = {119},
-  file      = {:Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF;:/home/rene/Dropbox/NHH/Literature/Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF},
-  groups    = {Mobility Trends},
+  file      = {:Files/Bratberg_et_al-2015-A_comparison_of_intergenerational_mobility_curves_in_Germany_Norway_Sweden_and_the_US.pdf:PDF},
+  groups    = {Mobility},
   publisher = {Wiley Online Library},
 }
 
@@ -2553,7 +2556,7 @@
   title   = {The Decline of Intergenerational Income Mobility in Denmark: Returns to Education, Demographic Change, and Labor Market Experience},
   year    = {2019},
   file    = {:Files/Harding_Munk-2019-The_decline_of_intergenerational_income_mobilit_in_Denmark.pdf:PDF},
-  groups  = {Mobility Trends},
+  groups  = {Mobility},
 }
 
 @Article{bertrand2015gender,
@@ -2574,7 +2577,7 @@
   title       = {The returns to skill in the United States across the twentieth century},
   year        = {1999},
   file        = {:Files/Goldin_Katz-1999-The_returns_to_skill_in_the_united_states_across_the_twentieth_century.pdf:PDF},
-  groups      = {Mobility Trends},
+  groups      = {Mobility},
 }
 
 @Article{chetty2019income,
@@ -2583,7 +2586,7 @@
   title   = {Income segregation and intergenerational mobility across colleges in the united states},
   year    = {2019},
   file    = {:Files/Chetty_et_al-2020-Income_segregation_and_intergenerational_mobility_across_colleges_in_the_United_States.pdf:PDF;:Files/Chetty_et_al-2020-Income_segregation_and_intergenerational_mobility_across_colleges_in_the_United_States_published.pdf:PDF},
-  groups  = {Mobility Trends},
+  groups  = {Mobility},
 }
 
 @Article{chetty2018impacts,
@@ -2595,7 +2598,7 @@
   pages     = {1107--1162},
   volume    = {133},
   file      = {:Files/Chetty_Hendren-2018-The_effect_of_neighbourhoods_on_intergenerational_mobilit.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {Oxford University Press},
 }
 
@@ -2608,7 +2611,7 @@
   pages     = {993--1030},
   volume    = {35},
   file      = {:Files/Bhuller_et_al-2014-Life_cycle_earnings_education_premiums_and_internal_rates_of_return.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {University of Chicago Press Chicago, IL},
 }
 
@@ -2621,7 +2624,7 @@
   pages     = {239--268},
   volume    = {51},
   file      = {:Files/Nybom_Stuhler-2016-Heterogeneous_income_profiles_and_lifecyle_bias_in_intergenerational_mobility_estimation.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {University of Wisconsin Press},
 }
 
@@ -2646,7 +2649,7 @@
   title     = {Parental Education Mitigates the Rising Transmission of Income between Generations},
   year      = {2020},
   file      = {:Files/Connolly_et_al-2020-Parental_Education_and_the_rising_transmission_of_income_between_generations.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
 }
 
 @Article{landerso2017scandinavian,
@@ -2658,7 +2661,7 @@
   pages     = {178--230},
   volume    = {119},
   file      = {:Files/Landerso_Heckman-2017-The_Scandinavian_Fantasy_the_sources_of_intergenerational_mobility_in_Denmark_and_the_US.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {Wiley Online Library},
 }
 
@@ -2668,7 +2671,7 @@
   title   = {The long run evolution of absolute intergenerational mobility},
   year    = {2018},
   file    = {:Files/Berman-2018-The_long_run_evolution_of_absolute_intergenerational_mobility.pdf:PDF},
-  groups  = {Mobility Trends},
+  groups  = {Mobility},
 }
 
 @TechReport{manduca2019trends,
@@ -2676,8 +2679,8 @@
   institution = {Mimeo},
   title       = {Trends in Absolute Income Mobility in North America and Europe},
   year        = {2019},
-  file        = {:Files/Manduca_et_al-2020-Trends_in_absolute_mobility.pdf.pdf:PDF;:/home/rene/Dropbox/NHH/Literature/Files/Adermon_et_al-2020-Trends_in_absolute_mobility_in_north_america_and_europe.pdf:PDF},
-  groups      = {Mobility Trends},
+  file        = {:Files/Manduca_et_al-2020-Trends_in_absolute_mobility.pdf.pdf:PDF},
+  groups      = {Mobility},
 }
 
 @Article{chetty2017fading,
@@ -2689,7 +2692,7 @@
   pages     = {398--406},
   volume    = {356},
   file      = {:Files/Chetty_et_al-2017-The_fading_American_dream.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {American Association for the Advancement of Science},
 }
 
@@ -2698,7 +2701,7 @@
   title     = {Trends in assortative mating and offspring outcomes},
   year      = {2018},
   file      = {:Files/Bratsberg-2018-Trends_in_assortative_mating_and_offspring_outcomes.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {IZA Discussion Paper},
 }
 
@@ -2711,7 +2714,7 @@
   pages     = {2795--2835},
   volume    = {127},
   file      = {:Files/Eika_et_al-2019-Educational_assortative_mating_and_household_income_inequality.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {The University of Chicago Press Chicago, IL},
 }
 
@@ -2732,7 +2735,7 @@
 @Article{bharadwaj2014smoking,
   author    = {Bharadwaj, Prashant and Johnsen, Julian V and L{\o}ken, Katrine V},
   journal   = {Journal of Public economics},
-  title     = {Smoking bans, maternal smoking and birth outcomes},
+  title     = {Smoking bans, maternal smoking and birth outcomes, mortality},
   year      = {2014},
   pages     = {72--93},
   volume    = {115},
@@ -2828,7 +2831,7 @@
   pages     = {999--1028},
   volume    = {121},
   file      = {:Files/Bjoerklund_et_al-2006-The_origins_of_intergenerational_mobility_associations.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {MIT Press},
 }
 
@@ -2841,7 +2844,7 @@
   pages     = {671--680},
   volume    = {93},
   file      = {:Files/Bjoerklund_et_al-2009-Family_background_and_income_during_the_rise_of_the_welfare_state.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {Elsevier},
 }
 
@@ -2854,7 +2857,7 @@
   pages     = {81--111},
   volume    = {46},
   file      = {:Files/Pekkala_Lucas-2007-Difference_across_cohorts_in_Finish_intergenerational_incom_mobility.pdf:PDF},
-  groups    = {Mobility Trends},
+  groups    = {Mobility},
   publisher = {Wiley Online Library},
 }
 
@@ -2903,7 +2906,7 @@
   type        = {Working Paper},
   doi         = {10.3386/w27737},
   file        = {:Files/Dettmer_et_al-2020-Intergenerational_effects_of_early_life_advantage_lessons_from_primate_study.pdf:PDF},
-  groups      = {Mobility Trends},
+  groups      = {Mobility},
   series      = {Working Paper Series},
   url         = {http://www.nber.org/papers/w27737},
 }
@@ -2953,7 +2956,7 @@
   title  = {The Making and Unmaking of Educational Opportunity: Intergenerational Educational Mobility in 20th Century-Denmark},
   year   = {2020},
   file   = {:Files/Karlson_Landersoe-2020-The_making_and_unmaking_of_educational_opportunity.pdf:PDF},
-  groups = {Mobility Trends},
+  groups = {Mobility},
 }
 
 @InCollection{fortin2011decomposition,
@@ -3059,6 +3062,338 @@
   file    = {:Files/Besley_et_al-2017-Gender_quotas_and_the_crisis_of_the_mediocre_man.pdf:PDF},
 }
 
+@Article{beaman2012female,
+  author    = {Beaman, Lori and Duflo, Esther and Pande, Rohini and Topalova, Petia},
+  journal   = {science},
+  title     = {Female leadership raises aspirations and educational attainment for girls: A policy experiment in India},
+  year      = {2012},
+  number    = {6068},
+  pages     = {582--586},
+  volume    = {335},
+  file      = {:Files/Beaman_et_al-2012-Female_leadership_raises_aspirations_and_educational_attainment_of_girls.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{jayachandran2010modern,
+  author  = {Jayachandran, Seema and Lleras-Muney, Adriana and Smith, Kimberly V},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Modern medicine and the twentieth century decline in mortality: Evidence on the impact of sulfa drugs},
+  year    = {2010},
+  number  = {2},
+  pages   = {118--46},
+  volume  = {2},
+  file    = {:Files/Jayachandran_et_al-2010-Sulfa_drugs_and_mortality_decline.pdf:PDF},
+}
+
+@Misc{grunnSSB2020,
+  author       = {{SSB}},
+  howpublished = {\url{https://www.ssb.no/a/metadata/conceptvariable/vardok/135/en}},
+  note         = {Accessed: 2020-10-16},
+  title        = {{Metadata: Basic Statistical Units}},
+  year         = {2020},
+  groups       = {Auxilliary},
+}
+
+@Article{haider2006life,
+  author  = {Haider, Steven and Solon, Gary},
+  journal = {American Economic Review},
+  title   = {Life-cycle variation in the association between current and lifetime earnings},
+  year    = {2006},
+  number  = {4},
+  pages   = {1308--1320},
+  volume  = {96},
+  file    = {:Files/Haider_Solon-2006-Life_cycle_variaton_in_the_association_between_current_and_lifetime_earings.pdf:PDF},
+  groups  = {Mobility},
+}
+
+@Article{dinardo1996labor,
+  author  = {DiNardo, John and Fortin, Nicole M and Lemieux, Thomas},
+  journal = {Econometrica},
+  title   = {Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach},
+  year    = {1996},
+  number  = {5},
+  pages   = {1001--1044},
+  volume  = {64},
+  file    = {:Files/DiNardo_et_al-1996-Labor_market_institutions_and_the_distribution_of_wages.pdf:PDF},
+  groups  = {Mobility},
+}
+
+@Article{bharadwaj2013early,
+  author  = {Bharadwaj, Prashant and L{\o}ken, Katrine Vellesen and Neilson, Christopher},
+  journal = {American Economic Review},
+  title   = {Early life health interventions and academic achievement, mortality},
+  year    = {2013},
+  number  = {5},
+  pages   = {1862--91},
+  volume  = {103},
+  file    = {:Files/Bharadwaj_Loken-2013-Early_life_health_interventions_and_academic_achievement.pdf:PDF},
+}
+
+@Article{bratlid2010treatment,
+  author  = {Bratlid, D and Nordermoen, A},
+  journal = {Tidsskrift for den Norske laegeforening: tidsskrift for praktisk medicin, ny raekke},
+  title   = {Treatment of very-low-birth-weight infants in Norway the last 40 years, mortality},
+  year    = {2010},
+  number  = {11},
+  pages   = {1127--1129},
+  volume  = {130},
+  groups  = {Auxilliary},
+}
+
+@Article{elsmen2004preterm,
+  author    = {Elsm{\'e}n, Emma and Pupp, I Hansen and Hellstr{\"o}m-Westas, Lena},
+  journal   = {Acta Paediatrica},
+  title     = {Preterm male infants need more initial respiratory and circulatory support than female infants},
+  year      = {2004},
+  number    = {4},
+  pages     = {529--533},
+  volume    = {93},
+  groups    = {Auxilliary},
+  publisher = {Wiley Online Library},
+}
+
+@Article{newburn2005older,
+  author    = {Newburn-Cook, Christine V and Onyskiw, Judee E},
+  journal   = {Health care for women international},
+  title     = {Is Older Maternal Age a Risk Factor for Preterm Birth and Fetal Growth Restriction? A SystematicReview},
+  year      = {2005},
+  number    = {9},
+  pages     = {852--875},
+  volume    = {26},
+  groups    = {Auxilliary},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{anderson2018legal,
+  author  = {Anderson, Siwan},
+  journal = {American Economic Review},
+  title   = {Legal origins and female HIV},
+  year    = {2018},
+  number  = {6},
+  pages   = {1407--39},
+  volume  = {108},
+  file    = {:Files/Anderson-2018-Legal_origins_and_female_HIV.pdf:PDF},
+}
+
+@Misc{OECD2020pov,
+  author       = {{OECD}},
+  howpublished = {\url{https://data.oecd.org/inequality/poverty-rate.htm}},
+  note         = {Accessed: 2020-10-16},
+  title        = {{Poverty Rate Definition}},
+  year         = {2020},
+  groups       = {Auxilliary},
+}
+
+@Article{watch2020slavetrade,
+  author  = {Nunn, Nathan and Wantchekon, Leonard},
+  journal = {American Economic Review},
+  title   = {The Slave Trade and the Origins of Mistrust in Africa},
+  year    = {2011},
+  month   = {December},
+  number  = {7},
+  pages   = {3221-52},
+  volume  = {101},
+  doi     = {10.1257/aer.101.7.3221},
+  file    = {:Files/Nunn_Watchekon-2011-The_slave_trade_and_the_origins_of_mistrust_in_Africa.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3221},
+}
+
+@Article{bjorklund1997intergenerational,
+  author    = {Bj{\"o}rklund, Anders and J{\"a}ntti, Markus},
+  journal   = {The American Economic Review},
+  title     = {Intergenerational income mobility in Sweden compared to the United States},
+  year      = {1997},
+  number    = {5},
+  pages     = {1009--1018},
+  volume    = {87},
+  groups    = {Mobility},
+  publisher = {JSTOR},
+}
+
+@TechReport{black2010recent,
+  author      = {Black, Sandra E and Devereux, Paul J},
+  institution = {National Bureau of Economic Research},
+  title       = {Recent developments in intergenerational mobility},
+  year        = {2010},
+  file        = {:Files/Black_Devereux-2010-Recent_developments_in_intergenertional_mobility.pdf:PDF},
+  groups      = {Mobility},
+}
+
+@Article{black2005apple,
+  author  = {Black, Sandra E and Devereux, Paul J and Salvanes, Kjell G},
+  journal = {American economic review},
+  title   = {Why the apple doesn't fall far: Understanding intergenerational transmission of human capital},
+  year    = {2005},
+  number  = {1},
+  pages   = {437--449},
+  volume  = {95},
+  file    = {:Files/Black_et_al-2005-Why_the_apply_doesnt_fall_far.pdf:PDF},
+  groups  = {Mobility},
+}
+
+@Article{somville2019having,
+  author  = {Somville, Vincent},
+  journal = {NHH Dept. of Economics Discussion Paper},
+  title   = {Having a Daughter Reduces Male Violence Against a Partner},
+  year    = {2019},
+  number  = {24},
+  file    = {:Files/Somville-2020-Having_a_daughter_reduces_intimate_partner_violence.pdf:PDF},
+}
+
+@Article{meghir2005educational,
+  author  = {Meghir, Costas and Palme, M{\aa}rten},
+  journal = {American Economic Review},
+  title   = {Educational reform, ability, and family background},
+  year    = {2005},
+  number  = {1},
+  pages   = {414--424},
+  volume  = {95},
+  file    = {:Files/Meghir_Palme-2005-Educational_reform_ability_and_family_background.pdf:PDF},
+}
+
+@Article{koenker2001quantile,
+  author  = {Koenker, Roger and Hallock, Kevin F},
+  journal = {Journal of economic perspectives},
+  title   = {Quantile regression},
+  year    = {2001},
+  number  = {4},
+  pages   = {143--156},
+  volume  = {15},
+  file    = {:Files/Koenker_Hallock-2001-Quantile_Regression.pdf:PDF},
+}
+
+@Article{kleven2014can,
+  author  = {Kleven, Henrik Jacobsen},
+  journal = {Journal of Economic Perspectives},
+  title   = {How can Scandinavians tax so much?},
+  year    = {2014},
+  number  = {4},
+  pages   = {77--98},
+  volume  = {28},
+  file    = {:Files/Kleven-2014-How_can_Scandinavians_tax_so_much.pdf:PDF},
+}
+
+@Article{mocan2017compulsory,
+  author    = {Mocan, Naci and Pogorelova, Luiza},
+  journal   = {Journal of Economic Behavior \& Organization},
+  title     = {Compulsory schooling laws and formation of beliefs: Education, religion and superstition},
+  year      = {2017},
+  pages     = {509--539},
+  volume    = {142},
+  file      = {:Files/Mocan_Pogorelova-2014-Compulsory_schooling_laws_and_formation_of_beliefs.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{ruhm1998economic,
+  author    = {Ruhm, Christopher J},
+  journal   = {The quarterly journal of economics},
+  title     = {The economic consequences of parental leave mandates: Lessons from Europe},
+  year      = {1998},
+  number    = {1},
+  pages     = {285--317},
+  volume    = {113},
+  file      = {:Files/Ruhm-1998-The_economic_consequences_of_parental_leave_mandates.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{aaberge2000unemployment,
+  author    = {Aaberge, Rolf and Wennemo, Tom and Bjorklund, Anders and Jantti, Markus and Pedersen, Peder J and Smith, Nina},
+  journal   = {Scandinavian Journal of Economics},
+  title     = {Unemployment shocks and income distribution: how did the Nordic countries fare during their crises?},
+  year      = {2000},
+  number    = {1},
+  pages     = {77--99},
+  volume    = {102},
+  file      = {:Files/Aaberge_et_al-2000-Unemployment_shocks_and_income_distribution.pdf:PDF},
+  groups    = {Mobility},
+  publisher = {Wiley Online Library},
+}
+
+@TechReport{zhang2014children,
+  author      = {Zhang, Xiaohan},
+  institution = {Working Paper},
+  title       = {Children of the mortality revolution: Infectious disease and long-run outcomes},
+  year        = {2014},
+  file        = {:Files/Zhang-2015-Children_of_the_mortality_revolution.pdf:PDF},
+}
+
+@Article{hack1995long,
+  author    = {Hack, Maureen and Klein, Nancy K and Taylor, H Gerry},
+  journal   = {The future of children},
+  title     = {Long-term developmental outcomes of low birth weight infants, mortality},
+  year      = {1995},
+  pages     = {176--196},
+  file      = {:Files/Hack_et_al-1995-Long-term_developmental_outcomes_of_low_birth_weight_infants.pdf:PDF},
+  publisher = {JSTOR},
+}
+
+@Article{carpenter2013bed,
+  author    = {Carpenter, Robert and McGarvey, Cliona and Mitchell, Edwin A and Tappin, David M and Vennemann, Mechtild M and Smuk, Melanie and Carpenter, James R},
+  journal   = {BMJ open},
+  title     = {Bed sharing when parents do not smoke: is there a risk of SIDS? An individual level analysis of five major case--control studies},
+  year      = {2013},
+  number    = {5},
+  volume    = {3},
+  file      = {:Files/Carpenter_et_al-2013-Bed_sharing_when_parents_do_not_smoke.pdf:PDF},
+  publisher = {British Medical Journal Publishing Group},
+}
+
+@Misc{CDC2020smoke,
+  author       = {{CDC}},
+  howpublished = {\url{https://www.cdc.gov/tobacco/data_statistics/fact_sheets/secondhand_smoke/health_effects/index.htm#:~:text=There%20is%20no%20risk%2Dfree,infant%20death%20syndrome%20(SIDS).}},
+  note         = {Accessed: 2020-10-30},
+  title        = {{Health Effects of Secondhand Smoke}},
+  year         = {2020},
+  groups       = {Auxilliary},
+}
+
+@Article{dinardo2001nonparametric,
+  author  = {DiNardo, John and Tobias, Justin L},
+  journal = {Journal of Economic Perspectives},
+  title   = {Nonparametric density and regression estimation},
+  year    = {2001},
+  number  = {4},
+  pages   = {11--28},
+  volume  = {15},
+  file    = {:Files/DiNardo_Tobias-2001-Nonparametric_density_and_regression_estimation.pdf:PDF},
+}
+
+@Article{10.1257/jep.34.4.105,
+  author  = {Murray, Eleanor J.},
+  journal = {Journal of Economic Perspectives},
+  title   = {Epidemiology's Time of Need: COVID-19 Calls for Epidemic-Related Economics},
+  year    = {2020},
+  month   = {November},
+  number  = {4},
+  pages   = {105-20},
+  volume  = {34},
+  doi     = {10.1257/jep.34.4.105},
+  file    = {:Files/Murray-2020-Epidemiologys_time_of_need.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/jep.34.4.105},
+}
+
+@Article{cortes2020children,
+  author = {Cort{\'e}s, Patricia and Pan, Jessica and others},
+  title  = {Children and the remaining gender gaps in the labor market},
+  year   = {2020},
+  file   = {:Files/Cortes_Pan-2020-Children_and_the_remaining_gender_gaps_in_the_labor_market.pdf:PDF},
+}
+
+@TechReport{NBERw28084,
+  author      = {Marinescu, Ioana and Ouss, Ivan and Pape, Louis-Daniel},
+  institution = {National Bureau of Economic Research},
+  title       = {Wages, Hires, and Labor Market Concentration},
+  year        = {2020},
+  month       = {November},
+  number      = {28084},
+  type        = {Working Paper},
+  abstract    = {How does employer market power affect workers? We compute the concentration of new hires by occupation and commuting zone in France using linked employer-employee data. Using instrumental variables with worker and firm fixed effects, we find that a 10% increase in labor market concentration decreases hires by 12.4% and the wages of new hires by nearly 0.9%, as hypothesized by monopsony theory. Based on a simple merger simulation, we find that a merger between the top two employers in the retail industry would be most damaging, with about 24 million euros in annual lost wages for new hires, and an 8000 decrease in annual hires.},
+  doi         = {10.3386/w28084},
+  file        = {:Files/Marinescu_et_al-2020-Wages_hires_and_labour_market_concentration.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28084},
+}
+
 @Article{,
 }
 
@@ -3068,12 +3403,10 @@
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 StaticGroup:Markings\;2\;1\;\;\;\;;
-2 StaticGroup:[s13906:]\;2\;1\;\;\;\;;
 1 StaticGroup:Mental Health\;0\;1\;0x006400ff\;\;Literature related to mental health, physical, fetal origins hypothesis and the long term economic consequences of (mental) health shocks\;;
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
-1 KeywordGroup:Mortality project\;0\;title\;mortality\;0\;0\;0\;0x4d3399ff\;\;\;;
+1 KeywordGroup:Mortality\;0\;title\;mortality\;0\;0\;1\;0x4d3399ff\;\;\;;
 1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;\;\;\;;
-1 StaticGroup:Mobility Trends\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
+1 StaticGroup:Mobility\;0\;1\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
 1 StaticGroup:R Citations\;0\;1\;0x8a8a8aff\;\;\;;
 }
