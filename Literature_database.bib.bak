@@ -1450,12 +1450,12 @@
 
 @Article{black2018born,
   author    = {Black, Sandra E and Gr{\"o}nqvist, Erik and {\"O}ckert, Bj{\"o}rn},
-  title     = {Born to lead? the effect of birth order on noncognitive abilities},
   journal   = {Review of Economics and Statistics},
+  title     = {Born to lead? the effect of birth order on noncognitive abilities},
   year      = {2018},
-  volume    = {100},
   number    = {2},
   pages     = {274--286},
+  volume    = {100},
   file      = {:Files/Black_et_al-2017-Born_to_lead_the_effect_of_birth_order_on_noncognitive_abilities.pdf:PDF},
   groups    = {Mental Health},
   publisher = {MIT Press},
@@ -3392,6 +3392,90 @@
   file        = {:Files/Marinescu_et_al-2020-Wages_hires_and_labour_market_concentration.pdf:PDF},
   series      = {Working Paper Series},
   url         = {http://www.nber.org/papers/w28084},
+}
+
+@TechReport{NBERw28082,
+  author      = {Kleven, Henrik and Landais, Camille and Posch, Johanna and Steinhauer, Andreas and Zweimüller, Josef},
+  institution = {National Bureau of Economic Research},
+  title       = {Do Family Policies Reduce Gender Inequality? Evidence from 60 Years of Policy Experimentation},
+  year        = {2020},
+  month       = {November},
+  number      = {28082},
+  type        = {Working Paper},
+  abstract    = {Do family policies reduce gender inequality in the labor market? We contribute to this debate by investigating the joint impact of parental leave and child care, using administrative data covering the labor market and birth histories of Austrian workers over more than half a century. We start by quasi-experimentally identifying the causal effects of all family policy reforms since the 1950s on the full dynamics of male and female earnings. We then map these causal estimates into a decomposition framework a la Kleven, Landais and Søgaard (2019) to compute counterfactual gender gaps. Our results show that the enormous expansions of parental leave and child care subsidies have had virtually no impact on gender convergence.},
+  doi         = {10.3386/w28082},
+  file        = {:Files/Kleven_et_al-2020-Do_family_policies_reduce_gender_inequality.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28082},
+}
+
+@Article{sanchez2020gender,
+  author      = {S{\'a}nchez, Rafael and Finot, Javier and Villena, Mauricio G},
+  title       = {Gender Wage Gap and Firm Market Power: Evidence from Chile},
+  year        = {2020},
+  file        = {:Files/Sanchez_et_al-2020-Gender_wage_gap_and_firm_marekt_power_evidence_from_chile.pdf:PDF},
+  institution = {Institute of Labor Economics (IZA)},
+}
+
+@Book{bennett2016mandell,
+  author    = {Bennett, John E and Dolin, Raphael and Blaser, Martin J},
+  publisher = {Elsevier Health Sciences},
+  title     = {Mandell, Douglas and Bennett’s Infectious Disease Essentials E-Book},
+  year      = {2016},
+  file      = {:Files/Mandell_Benett-2016-Infectious_disease_essentials.pdf:PDF},
+}
+
+@Article{bleakley2007disease,
+  author    = {Bleakley, Hoyt},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {Disease and Development: Evidence from Hookworm Eradication in the American South},
+  year      = {2007},
+  number    = {1},
+  pages     = {73--117},
+  volume    = {122},
+  file      = {:Files/Bleakley-2007-Disease_and_development_evidence_from_hookworm_eradication_in_the_american_south.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{finch2004inflammatory,
+  author    = {Finch, Caleb E and Crimmins, Eileen M},
+  journal   = {Science},
+  title     = {Inflammatory exposure and historical changes in human life-spans},
+  year      = {2004},
+  number    = {5691},
+  pages     = {1736--1739},
+  volume    = {305},
+  file      = {:Files/Finch_Crimmins-2004-Inflammatory_exposure_and_historical_changes_in_human_life_spans.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{savelyev2020conscientiousness,
+  author    = {Savelyev, Peter A},
+  journal   = {Journal of Human Resources},
+  title     = {Conscientiousness, Extraversion, college education, and longevity of high-ability individuals},
+  year      = {2020},
+  pages     = {0918--9720R2},
+  file      = {:Files/Savelyev-2020-Conscientiousness_extraversion_college_education_and_longevitiy_of_high_ability_individuals.pdf:PDF},
+  publisher = {University of Wisconsin Press},
+}
+
+@Article{almaas2016explains,
+  author  = {Alm{\aa}s, Ingvild and Cappelen, Alexander W and Salvanes, Kjell G and S{\o}rensen, Erik {\O} and Tungodden, Bertil},
+  journal = {American Economic Review},
+  title   = {What explains the gender gap in college track dropout? Experimental and administrative evidence},
+  year    = {2016},
+  number  = {5},
+  pages   = {296--302},
+  volume  = {106},
+  file    = {:Files/Almas_et_al-2016-What_explains_the_gender_gap_in_college_track_dropout.pdf:PDF},
+}
+
+@Article{butikofer2020cognitive,
+  author  = {B{\"u}tikofer, Aline and Peri, Giovanni},
+  journal = {Journal of Labor Economics, forthcoming},
+  title   = {How cognitive ability and personality traits affect geographic mobility},
+  year    = {2020},
+  file    = {:Files/Bütikofer_Peri-2020-How_cognitive_ability_an_personality_traits_affect_geographic_mobility.pdf:PDF},
 }
 
 @Article{,
