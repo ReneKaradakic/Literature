@@ -1906,10 +1906,10 @@
 
 @TechReport{anderson2018public,
   author      = {Anderson, D Mark and Charles, Kerwin Kofi and Rees, Daniel I},
-  title       = {Public health efforts and the decline in urban mortality},
   institution = {National Bureau of Economic Research},
+  title       = {Public health efforts and the decline in urban mortality},
   year        = {2018},
-  file        = {:Files/Anderson_Meyer-1997-Unemployment_insurance_take_up.pdf:PDF},
+  file        = {:Files/Anderson_et_al-2018-Public_health_efforts_and_the_decline_in_urban_mortality.pdf:PDF},
 }
 
 @Article{alexander2019impact,
@@ -3478,7 +3478,42 @@
   file    = {:Files/Bütikofer_Peri-2020-How_cognitive_ability_an_personality_traits_affect_geographic_mobility.pdf:PDF},
 }
 
-@Article{,
+@Article{bauernschuster2020bismarck,
+  author    = {Bauernschuster, Stefan and Driva, Anastasia and Hornung, Erik},
+  journal   = {Journal of the European Economic Association},
+  title     = {Bismarck’s health insurance and the mortality decline},
+  year      = {2020},
+  number    = {5},
+  pages     = {2561--2607},
+  volume    = {18},
+  file      = {:Files/Bauernschuster_et_al-2020-Bismarcks_health_insurance_and_the_mortality_decline.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{anderson2019tbc,
+  author  = {Anderson, D. Mark and Charles, Kerwin Kofi and Olivares, Claudio Las Heras and Rees, Daniel I.},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Was the First Public Health Campaign Successful?},
+  year    = {2019},
+  month   = {April},
+  number  = {2},
+  pages   = {143-75},
+  volume  = {11},
+  doi     = {10.1257/app.20170411},
+  file    = {:Files/Anderson_et_al-2019-Was_the_first_public_health_campaign_successful.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/app.20170411},
+}
+
+@Article{cutler2005role,
+  author    = {Cutler, David and Miller, Grant},
+  journal   = {Demography},
+  title     = {The role of public health improvements in health advances: the twentieth-century United States},
+  year      = {2005},
+  number    = {1},
+  pages     = {1--22},
+  volume    = {42},
+  file      = {:Files/Cutler_Miller-2005-The_role_of_public_health_improvements_in_health_advances.pdf:PDF},
+  publisher = {Springer},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
