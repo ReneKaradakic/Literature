@@ -1364,7 +1364,7 @@
   pages     = {586--638},
   volume    = {127},
   file      = {:Files/Alsan_Goldin-2019-Watersheds_in_child_mortality.pdf:PDF},
-  groups    = {Mental Health},
+  groups    = {Mental Health, Infectious_disease},
   publisher = {The University of Chicago Press Chicago, IL},
 }
 
@@ -1776,6 +1776,7 @@
   year    = {2015},
   number  = {28},
   file    = {:Files/Bütikofer_Salvanes-2015-Disease_control_and_inequality_reduction.pdf:PDF},
+  groups  = {Infectious_disease},
 }
 
 @Article{butikofer2019infant,
@@ -1798,6 +1799,7 @@
   pages     = {102224},
   volume    = {67},
   file      = {:Files/Goldin_Lleras-Muney-2019-The_changing_female_advantage_in_life_expectancy.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {Elsevier},
 }
 
@@ -1842,21 +1844,23 @@
 
 @TechReport{alsan2019technological,
   author      = {Alsan, Marcella and Atella, Vincenzo and Bhattacharya, Jay and Conti, Valentina and Mej{\'\i}a-Guevara, Iv{\'a}n and Miller, Grant},
-  title       = {Technological progress and health convergence: The case of Penicillin in Post-War Italy},
   institution = {National Bureau of Economic Research},
+  title       = {Technological progress and health convergence: The case of Penicillin in Post-War Italy},
   year        = {2019},
   file        = {:Files/Alsan_et_al-2019-Technological_progress_and_health_convergence.pdf:PDF},
+  groups      = {Infectious_disease},
 }
 
 @Article{acemoglu2007disease,
   author    = {Acemoglu, Daron and Johnson, Simon},
-  title     = {Disease and development: the effect of life expectancy on economic growth},
   journal   = {Journal of political Economy},
+  title     = {Disease and development: the effect of life expectancy on economic growth},
   year      = {2007},
-  volume    = {115},
   number    = {6},
   pages     = {925--985},
+  volume    = {115},
   file      = {:Files/Acemoglu_Johnson-2007-Disease_and_development_The_effect_of_life_expectancy_on_economic_growth.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {The University of Chicago Press},
 }
 
@@ -1909,7 +1913,8 @@
   institution = {National Bureau of Economic Research},
   title       = {Public health efforts and the decline in urban mortality},
   year        = {2018},
-  file        = {:Files/Anderson_et_al-2018-Public_health_efforts_and_the_decline_in_urban_mortality.pdf:PDF},
+  file        = {:Files/Anderson_et_al-2018-Public_health_efforts_and_the_decline_in_urban_mortality.pdf:PDF;:Files/ACR_rejoinder.pdf:PDF;:Files/CM_comment.pdf:PDF},
+  groups      = {Infectious_disease},
 }
 
 @Article{alexander2019impact,
@@ -1922,13 +1927,14 @@
 
 @Article{cutler2006determinants,
   author  = {Cutler, David and Deaton, Angus and Lleras-Muney, Adriana},
-  title   = {The determinants of mortality},
   journal = {Journal of economic perspectives},
+  title   = {The determinants of mortality},
   year    = {2006},
-  volume  = {20},
   number  = {3},
   pages   = {97--120},
+  volume  = {20},
   file    = {:Files/Cutler_et_al-2006-The_determinants_of_mortality.pdf:PDF},
+  groups  = {Infectious_disease},
 }
 
 @Article{deryugina2019,
@@ -2004,13 +2010,14 @@
 
 @Article{adda2016economic,
   author    = {Adda, J{\'e}r{\^o}me},
-  title     = {Economic activity and the spread of viral diseases: Evidence from high frequency data},
   journal   = {The Quarterly Journal of Economics},
+  title     = {Economic activity and the spread of viral diseases: Evidence from high frequency data},
   year      = {2016},
-  volume    = {131},
   number    = {2},
   pages     = {891--941},
+  volume    = {131},
   file      = {:Files/Adda-2016-Economic_activity_and_the_spread_of_viral_disease.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {MIT Press},
 }
 
@@ -2028,13 +2035,14 @@
 
 @Article{guerra2013sex,
   author    = {Guerra-Silveira, Felipe and Abad-Franch, Fernando},
-  title     = {Sex bias in infectious disease epidemiology: patterns and processes},
   journal   = {PloS one},
+  title     = {Sex bias in infectious disease epidemiology: patterns and processes},
   year      = {2013},
-  volume    = {8},
   number    = {4},
   pages     = {e62390},
+  volume    = {8},
   file      = {:Files/Guerra-Silveira_Abad-Franch-2013-Sex_bias_in_infectious_disease_epidemiology.PDF:PDF},
+  groups    = {Infectious_disease},
   publisher = {Public Library of Science},
 }
 
@@ -2353,25 +2361,27 @@
 
 @Article{vestrheim2008effectiveness,
   author    = {Vestrheim, Didrik F and L{\o}voll, {\O}istein and Aaberge, Ingeborg S and Caugant, Dominique A and H{\o}iby, E Arne and Bakke, Hilde and Bergsaker, Marianne R},
-  title     = {Effectiveness of a 2+ 1 dose schedule pneumococcal conjugate vaccination programme on invasive pneumococcal disease among children in Norway},
   journal   = {Vaccine},
+  title     = {Effectiveness of a 2+ 1 dose schedule pneumococcal conjugate vaccination programme on invasive pneumococcal disease among children in Norway},
   year      = {2008},
-  volume    = {26},
   number    = {26},
   pages     = {3277--3281},
+  volume    = {26},
   file      = {:Files/Vestrheim_et_al-2008-Effectiveness_of_a_2_plus_one_dose_schedule_pneumococcal_conjugate_vaccination_programme_on_invasive_pneumococcal_disease_among_children_in_Norway.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {Elsevier},
 }
 
 @Article{luca2018impact,
   author    = {Luca, Dara Lee and Kwong, Jeffrey C and Chu, Anna and Sander, Beate and O’Reilly, Ryan and McGeer, Allison J and Bloom, David E},
-  title     = {Impact of pneumococcal vaccination on pneumonia hospitalizations and related costs in Ontario: a population-based ecological study},
   journal   = {Clinical Infectious Diseases},
+  title     = {Impact of pneumococcal vaccination on pneumonia hospitalizations and related costs in Ontario: a population-based ecological study},
   year      = {2018},
-  volume    = {66},
   number    = {4},
   pages     = {541--547},
+  volume    = {66},
   file      = {:Files/Luca_et_al-2018-Impact_of_pneumococcal_vaccination_on_pneumonia.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {Oxford University Press US},
 }
 
@@ -3004,6 +3014,7 @@
   pages     = {694--699},
   volume    = {348},
   file      = {:Files/Mina_et_al-2015-Long_term_measles_induced_immunomodulation_increases_overall_childhood_infectious_disease_mortality.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {American Association for the Advancement of Science},
 }
 
@@ -3083,6 +3094,7 @@
   pages   = {118--46},
   volume  = {2},
   file    = {:Files/Jayachandran_et_al-2010-Sulfa_drugs_and_mortality_decline.pdf:PDF},
+  groups  = {Infectious_disease},
 }
 
 @Misc{grunnSSB2020,
@@ -3315,6 +3327,7 @@
   title       = {Children of the mortality revolution: Infectious disease and long-run outcomes},
   year        = {2014},
   file        = {:Files/Zhang-2015-Children_of_the_mortality_revolution.pdf:PDF},
+  groups      = {Infectious_disease},
 }
 
 @Article{hack1995long,
@@ -3423,6 +3436,7 @@
   title     = {Mandell, Douglas and Bennett’s Infectious Disease Essentials E-Book},
   year      = {2016},
   file      = {:Files/Mandell_Benett-2016-Infectious_disease_essentials.pdf:PDF},
+  groups    = {Infectious_disease},
 }
 
 @Article{bleakley2007disease,
@@ -3434,6 +3448,7 @@
   pages     = {73--117},
   volume    = {122},
   file      = {:Files/Bleakley-2007-Disease_and_development_evidence_from_hookworm_eradication_in_the_american_south.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {Oxford University Press},
 }
 
@@ -3501,6 +3516,7 @@
   volume  = {11},
   doi     = {10.1257/app.20170411},
   file    = {:Files/Anderson_et_al-2019-Was_the_first_public_health_campaign_successful.pdf:PDF},
+  groups  = {Infectious_disease},
   url     = {https://www.aeaweb.org/articles?id=10.1257/app.20170411},
 }
 
@@ -3513,7 +3529,131 @@
   pages     = {1--22},
   volume    = {42},
   file      = {:Files/Cutler_Miller-2005-The_role_of_public_health_improvements_in_health_advances.pdf:PDF},
+  groups    = {Infectious_disease},
   publisher = {Springer},
+}
+
+@Article{10.1093/qje/qjx029,
+  author  = {Alsan, Marcella and Wanamaker, Marianne},
+  journal = {The Quarterly Journal of Economics},
+  title   = {{Tuskegee and the Health of Black Men*}},
+  year    = {2017},
+  issn    = {0033-5533},
+  month   = {08},
+  number  = {1},
+  pages   = {407-455},
+  volume  = {133},
+  doi     = {10.1093/qje/qjx029},
+  eprint  = {https://academic.oup.com/qje/article-pdf/133/1/407/30636482/qjx029.pdf},
+  file    = {:Files/Alsan_Wannamaker-2019-Tuskegee_and_the_health_of_black_men.pdf:PDF},
+  url     = {https://doi.org/10.1093/qje/qjx029},
+}
+
+@Article{case2009early,
+  author  = {Case, Anne and Paxson, Christina},
+  journal = {American Economic Review},
+  title   = {Early life health and cognitive function in old age, mortality},
+  year    = {2009},
+  number  = {2},
+  pages   = {104--09},
+  volume  = {99},
+  file    = {:/home/renekaradakic/Dropbox/NHH/Literature/Files/Case_Paxson-2009-Early_life_health_and_cognitive_function_in_old_age.pdf:PDF},
+  groups  = {Infectious_disease},
+}
+
+@Article{lee2014utero,
+  author    = {Lee, Chulhee},
+  journal   = {Journal of health economics},
+  title     = {In utero exposure to the Korean War and its long-term effects on socioeconomic and health outcomes},
+  year      = {2014},
+  pages     = {76--93},
+  volume    = {33},
+  file      = {:/home/renekaradakic/Dropbox/NHH/Literature/Files/Lee-2014-In_utero_exposure_to_the_Korean_war_and_its_long_term_effects_on_socioeconomic_and_health_outcomes.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{kesternich2014effects,
+  author    = {Kesternich, Iris and Siflinger, Bettina and Smith, James P and Winter, Joachim K},
+  journal   = {Review of Economics and Statistics},
+  title     = {The effects of World War II on economic and health outcomes across Europe},
+  year      = {2014},
+  number    = {1},
+  pages     = {103--118},
+  volume    = {96},
+  file      = {:/home/renekaradakic/Dropbox/NHH/Literature/Files/Kesternich_et_al-2014-The_effects_of_world_war_II_on_economic_and_health_outcomes_across_europe.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Book{lesch2007first,
+  author    = {Lesch, John E},
+  publisher = {Oxford University Press, USA},
+  title     = {The first miracle drugs: how the sulfa drugs transformed medicine},
+  year      = {2007},
+  file      = {:/home/renekaradakic/Dropbox/NHH/Literature/Files/Lesch-2007-The_first_miracle_drugs_how_the_sulfa_drugs_transformed_medicine.pdf:PDF},
+}
+
+@Article{chadwick2002intergenerational,
+  author  = {Chadwick, Laura and Solon, Gary},
+  journal = {American Economic Review},
+  title   = {Intergenerational income mobility among daughters},
+  year    = {2002},
+  number  = {1},
+  pages   = {335--344},
+  volume  = {92},
+  file    = {:Files/Chadwick_Solon-2002-Intergenerational_income_mobility_among_daughters.pdf:PDF},
+  groups  = {Mobility},
+}
+
+@Article{lee2009trends,
+  author    = {Lee, Chul-In and Solon, Gary},
+  journal   = {The Review of Economics and Statistics},
+  title     = {Trends in intergenerational income mobility},
+  year      = {2009},
+  number    = {4},
+  pages     = {766--772},
+  volume    = {91},
+  file      = {:Files/Lee_Solon-2009-Trends_in_intergenerational_income_mobility.pdf:PDF},
+  groups    = {Mobility},
+  publisher = {MIT Press},
+}
+
+@Book{wickham2016r,
+  author    = {Wickham, Hadley and Grolemund, Garrett},
+  publisher = {" O'Reilly Media, Inc."},
+  title     = {R for data science: import, tidy, transform, visualize, and model data},
+  year      = {2016},
+  groups    = {R Citations},
+}
+
+@Article{ager2018fertility,
+  author    = {Ager, Philipp and Worm Hansen, Casper and Sandholt Jensen, Peter},
+  journal   = {Journal of the European Economic Association},
+  title     = {Fertility and early-life mortality: Evidence from smallpox vaccination in Sweden},
+  year      = {2018},
+  number    = {2},
+  pages     = {487--521},
+  volume    = {16},
+  file      = {:Files/Ager_et_al-2018-Fertility_and_early_mortality_evidence_from_smallpox_vaccination_in_Sweden.pdf:PDF},
+  groups    = {Infectious_disease},
+  publisher = {Oxford University Press},
+}
+
+@Article{bhalotra2020health,
+  author = {Bhalotra, Sonia and Clarke, Damian and M{\"u}hlrad, Hanna and Palme, M{\aa}rten},
+  title  = {Health and Labor Market Impacts of IVF Technology: Evidence from a Swedish Policy Mandate},
+  year   = {2020},
+  file   = {:Files/Bhalotra_et_al-2020-Health_and_labour_market_impacts_of_ivf_technology.pdf:PDF},
+}
+
+@Article{carr2017effects,
+  author    = {Carr, Jillian B and Packham, Analisa},
+  journal   = {Health economics},
+  title     = {The effects of state-mandated abstinence-based sex education on teen health outcomes},
+  year      = {2017},
+  number    = {4},
+  pages     = {403--420},
+  volume    = {26},
+  publisher = {Wiley Online Library},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -3526,6 +3666,7 @@
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
 1 KeywordGroup:Mortality\;0\;title\;mortality\;0\;0\;1\;0x4d3399ff\;\;\;;
 1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;\;\;\;;
-1 StaticGroup:Mobility\;0\;1\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
+1 StaticGroup:Mobility\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
 1 StaticGroup:R Citations\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Infectious_disease\;0\;0\;0x8a8a8aff\;\;\;;
 }
