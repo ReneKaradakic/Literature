@@ -3653,7 +3653,19 @@
   number    = {4},
   pages     = {403--420},
   volume    = {26},
+  file      = {:Files/Carr_Packham-2016-The_effects_of_state_mandate_abstinence_base_sex_education.pdf:PDF},
   publisher = {Wiley Online Library},
+}
+
+@Article{markussen2020economic,
+  author    = {Markussen, Simen and R{\o}ed, Knut},
+  journal   = {Journal of the European Economic Association},
+  title     = {Economic mobility under pressure},
+  year      = {2020},
+  number    = {4},
+  pages     = {1844--1885},
+  volume    = {18},
+  publisher = {Oxford University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
