@@ -3665,7 +3665,16 @@
   number    = {4},
   pages     = {1844--1885},
   volume    = {18},
+  file      = {:Files/Markussen_Roed-2020-Economic_mobility_under_pressure.pdf:PDF},
+  groups    = {Mobility},
   publisher = {Oxford University Press},
+}
+
+@Article{attanasio2020economic,
+  author    = {Attanasio, Orazio and Nielsen, Torben Heien},
+  title     = {Economic Resources, Mortality and Inequality},
+  year      = {2020},
+  publisher = {CEBI WORKING PAPER SERIES, Working Paper 06/20},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
