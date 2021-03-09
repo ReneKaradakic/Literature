@@ -3723,12 +3723,21 @@
   groups  = {Auxilliary},
 }
 
-@Article{borge1991,
-  author    = {B{\o}rge, Strand},
+@Article{borke1991,
+  author    = {B{\o}rke, Strand},
   journal   = {Rapporter 91/18},
   title     = {Personlig Inntekt, Formue og Skatt 1980-1989},
   year      = {1991},
   note      = {\url{https://www.ssb.no/a/histstat/rapp/rapp_199118.pdf}},
+  groups    = {Auxilliary},
+  publisher = {Statistisk sentralbyr{\aa}},
+}
+
+@Article{gerdrup1998,
+  author    = {Gerdrup, Karsten R.},
+  title     = {Skattesystem og skattestatistikk i et historisk perspektiv},
+  year      = {1998},
+  note      = {\url{https://www.ssb.no/a/histstat/rapp/rapp_199806.pdf}},
   groups    = {Auxilliary},
   publisher = {Statistisk sentralbyr{\aa}},
 }
