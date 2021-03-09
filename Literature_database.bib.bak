@@ -3712,6 +3712,17 @@
   publisher    = {Statistisk sentralbyr{\aa}},
 }
 
+@Article{epland1998inntekt,
+  author       = {Epland, Jon},
+  journal      = {Revisjon av inntektsregnskapet i inntekts-og formuesunders{\o}kelsen for husholdninger, Notater},
+  title        = {Inntekt etter skatt},
+  year         = {1998},
+  pages        = {43},
+  volume       = {98},
+  groups       = {Auxilliary},
+  howpublished = {\url{https://www.ssb.no/a/histstat/not/not_9843.pdf}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
