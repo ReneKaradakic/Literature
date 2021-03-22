@@ -3742,6 +3742,133 @@
   publisher = {Statistisk sentralbyr{\aa}},
 }
 
+@Article{mulalic2014wages,
+  author    = {Mulalic, Ismir and Van Ommeren, Jos N and Pilegaard, Ninette},
+  journal   = {The Economic Journal},
+  title     = {Wages and commuting: Quasi-natural experiments' evidence from firms that relocate},
+  year      = {2014},
+  number    = {579},
+  pages     = {1086--1105},
+  volume    = {124},
+  file      = {:Files/Mulalic_et_al-2014-Wages_and_commuting_quasi_natural_experiments_evidence_from_firms_that_relocate.pdf:PDF},
+  publisher = {Oxford University Press Oxford, UK},
+}
+
+@Article{mas2017valuing,
+  author  = {Mas, Alexandre and Pallais, Amanda},
+  journal = {American Economic Review},
+  title   = {Valuing alternative work arrangements},
+  year    = {2017},
+  number  = {12},
+  pages   = {3722--59},
+  volume  = {107},
+  file    = {:Files/Mas_Pallais-2017-Valuing_alternative_work_arrrangments.pdf:PDF},
+}
+
+@Article{diamond1994contingent,
+  author  = {Diamond, Peter A and Hausman, Jerry A},
+  journal = {Journal of economic perspectives},
+  title   = {Contingent valuation: is some number better than no number?},
+  year    = {1994},
+  number  = {4},
+  pages   = {45--64},
+  volume  = {8},
+  file    = {:Files/Diamond_Hausman-1994-Contingent_valuation_is_some_number_better_than_no_number.pdf:PDF},
+}
+
+@Manual{modsumarel2021,
+  title  = {modelsummary: Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready},
+  author = {Vincent Arel-Bundock},
+  note   = {R package version 0.6.5},
+  year   = {2021},
+  groups = {R Citations},
+  url    = {https://CRAN.R-project.org/package=modelsummary},
+}
+
+@Manual{ggpubrAlbou2020,
+  title  = {ggpubr: 'ggplot2' Based Publication Ready Plots},
+  author = {Alboukadel Kassambara},
+  note   = {R package version 0.4.0},
+  year   = {2020},
+  groups = {R Citations},
+  url    = {https://CRAN.R-project.org/package=ggpubr},
+}
+
+@TechReport{NBERw28563,
+  author      = {Beach, Brian},
+  institution = {National Bureau of Economic Research},
+  title       = {Water Infrastructure and Health in U.S. Cities},
+  year        = {2021},
+  month       = {March},
+  number      = {28563},
+  type        = {Working Paper},
+  doi         = {10.3386/w28563},
+  file        = {:Files/Beach-2021-Water_infrastructure_and_health_in_US_cities.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28563},
+}
+
+@TechReport{NBERw28550,
+  author      = {Borgschulte, Mark and Guenzel, Marius and Liu, Canyao and Malmendier, Ulrike},
+  institution = {National Bureau of Economic Research},
+  title       = {CEO Stress, Aging, and Death},
+  year        = {2021},
+  month       = {March},
+  number      = {28550},
+  type        = {Working Paper},
+  doi         = {10.3386/w28550},
+  file        = {:Files/Borgschulte_et_al_2021-CEO_stress_aging_and_death.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28550},
+}
+
+@Article{goldin2006quiet,
+  author  = {Goldin, Claudia},
+  journal = {American economic review},
+  title   = {The quiet revolution that transformed women's employment, education, and family},
+  year    = {2006},
+  number  = {2},
+  pages   = {1--21},
+  volume  = {96},
+  file    = {:Files/Goldin-2006-The_quiet_revolution_that_transformed_womens_employment.pdf:PDF},
+}
+
+@TechReport{NBERw28587,
+  author      = {Harris, Jeffrey E},
+  institution = {National Bureau of Economic Research},
+  title       = {The Repeated Setbacks of HIV Vaccine Development Laid the Groundwork for SARS-CoV-2 Vaccines},
+  year        = {2021},
+  month       = {March},
+  number      = {28587},
+  type        = {Working Paper},
+  doi         = {10.3386/w28587},
+  file        = {:Files/Harris-2021-The_repeated_setbacks_of_HIV_vaccine_development_laid_groundwork.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28587},
+}
+
+@Article{caselubopax2002,
+  author  = {Case, Anne and Lubotsky, Darren and Paxson, Christina},
+  journal = {American Economic Review},
+  title   = {Economic Status and Health in Childhood: The Origins of the Gradient},
+  year    = {2002},
+  month   = {December},
+  number  = {5},
+  pages   = {1308-1334},
+  volume  = {92},
+  doi     = {10.1257/000282802762024520},
+  file    = {:Files/Case_et_al-2002-Economic_status_and_health_in_childhood.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/000282802762024520},
+}
+
+@Article{butikofer2021income,
+  author  = {Butikofer, Aline and Karadakic, Ren{\'e} and Salvanes, Kjell G},
+  journal = {NHH Dept. of Economics Discussion Paper},
+  title   = {Income Inequality and Mortality: A Norwegian Perspective},
+  year    = {2021},
+  number  = {04},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
