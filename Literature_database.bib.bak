@@ -3867,6 +3867,30 @@
   title   = {Income Inequality and Mortality: A Norwegian Perspective},
   year    = {2021},
   number  = {04},
+  groups  = {My_papers},
+}
+
+@Article{carneiro2021intergenerational,
+  author    = {Carneiro, Pedro and Garcia, Italo Lopez and Salvanes, Kjell G and Tominey, Emma},
+  journal   = {Journal of Political Economy},
+  title     = {Intergenerational mobility and the timing of parental income},
+  year      = {2021},
+  number    = {3},
+  pages     = {757--788},
+  volume    = {129},
+  file      = {:Files/Carneiro_et_al-2021-Intergenerational_mobility_and_the_timing_of_parental_income.pdf:PDF},
+  publisher = {The University of Chicago Press Chicago, IL},
+}
+
+@Article{lekmod2019hist,
+  author    = {Leknes, Stefan and Modalsli, J{\o}rgen},
+  journal   = {The Journal of Economic History},
+  title     = {Who benefited from industrialization? The local effects of hydropower technology adoption in Norway},
+  year      = {2020},
+  number    = {1},
+  pages     = {207--245},
+  volume    = {80},
+  publisher = {Cambridge University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -3882,4 +3906,5 @@
 1 StaticGroup:Mobility\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
 1 StaticGroup:R Citations\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Infectious_disease\;0\;0\;0x8a8a8aff\;\;\;;
+1 StaticGroup:My_papers\;0\;1\;0x8a8a8aff\;\;\;;
 }
