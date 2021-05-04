@@ -4074,6 +4074,18 @@
   year      = {2020},
 }
 
+@Article{lubotsky2006interpretation,
+  author    = {Lubotsky, Darren and Wittenberg, Martin},
+  journal   = {The Review of Economics and Statistics},
+  title     = {Interpretation of regressions with multiple proxies},
+  year      = {2006},
+  number    = {3},
+  pages     = {549--562},
+  volume    = {88},
+  file      = {:Files/Lubotsky_Wittenberg-2006-Interpretation_of_regressions_with_multiple_proxies.pdf:PDF},
+  publisher = {MIT Press},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
