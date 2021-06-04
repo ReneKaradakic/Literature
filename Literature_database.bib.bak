@@ -2175,9 +2175,9 @@
 }
 
 @TechReport{cheung2012edutainment,
-  author      = {Cheung, Maria and others},
-  title       = {Edutainment radio, women's status and primary school participation: Evidence from cambodia},
+  author      = {Cheung, Maria},
   institution = {Stockholm University, Department of Economics},
+  title       = {Edutainment radio, women's status and primary school participation: Evidence from cambodia},
   year        = {2012},
   file        = {:Files/Cheung-2012-Edutainment_radio_womens_status_and_primary_school_participation.pdf:PDF},
 }
@@ -2237,11 +2237,14 @@
   file    = {:Files/Durante_et_al-2019-The_political_legacy_of_entertainment_tv.pdf:PDF},
 }
 
-@Article{rogall2014mobilizing,
+@Article{rogall2021mobilizing,
   author  = {Rogall, Thorsten},
+  journal = {American Economic Review},
   title   = {Mobilizing the masses for genocide, radio},
-  journal = {Unpublished Manuscript},
-  year    = {2014},
+  year    = {2021},
+  number  = {1},
+  pages   = {41--72},
+  volume  = {111},
   file    = {:Files/Rogall-2020-Mobilizing_the_masses_for_genocide.pdf:PDF},
 }
 
@@ -4072,6 +4075,143 @@
   publisher = {Edward Elgar Publishing},
   title     = {Handbook on the Politics of Small States},
   year      = {2020},
+}
+
+@Article{lubotsky2006interpretation,
+  author    = {Lubotsky, Darren and Wittenberg, Martin},
+  journal   = {The Review of Economics and Statistics},
+  title     = {Interpretation of regressions with multiple proxies},
+  year      = {2006},
+  number    = {3},
+  pages     = {549--562},
+  volume    = {88},
+  file      = {:Files/Lubotsky_Wittenberg-2006-Interpretation_of_regressions_with_multiple_proxies.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@TechReport{NBERw28716,
+  author      = {Yang, Dean and Allen, James, IV and Mahumane, Arlete and Riddell, James, IV and Yu, Hang},
+  institution = {National Bureau of Economic Research},
+  title       = {Knowledge, Stigma, and HIV Testing: An Analysis of a Widespread HIV/AIDS Program},
+  year        = {2021},
+  month       = {April},
+  number      = {28716},
+  type        = {Working Paper},
+  doi         = {10.3386/w28716},
+  file        = {:Files/Yang_et_al-2021-Knowledge_stigma_and_hiv_testing.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w28716},
+}
+
+@Article{chetty2014united,
+  author  = {Chetty, Raj and Hendren, Nathaniel and Kline, Patrick and Saez, Emmanuel and Turner, Nicholas},
+  journal = {American Economic Review},
+  title   = {Is the United States still a land of opportunity? Recent trends in intergenerational mobility},
+  year    = {2014},
+  number  = {5},
+  pages   = {141--47},
+  volume  = {104},
+  file    = {:Files/Chetty_et_al-2014-Is_the_US_still_a_land_of_opportunity.pdf:PDF},
+  groups  = {Mobility},
+}
+
+@Article{kaplan2018changing,
+  author  = {Kaplan, Greg and Schulhofer-Wohl, Sam},
+  journal = {Journal of Economic Perspectives},
+  title   = {The changing (dis-) utility of work},
+  year    = {2018},
+  number  = {3},
+  pages   = {239--58},
+  volume  = {32},
+  file    = {:Files/Kaplan_Schulhofer-Wohl-2018-The_changing_disutility_of_work.pdf:PDF},
+}
+
+@Article{arellano2020career,
+  author    = {Arellano-Bover, Jaime},
+  title     = {Career consequences of firm heterogeneity for young workers: First job and firm size},
+  year      = {2020},
+  file      = {:Files/Arellano_Bover-2020-Career_consequences_of_firm_heterogeneity_for_young_workers.pdf:PDF},
+  publisher = {IZA Discussion Paper},
+}
+
+@InProceedings{arellano2021gets,
+  author    = {Arellano-Bover, Jaime},
+  booktitle = {AEA Papers and Proceedings},
+  title     = {Who Gets Their First Job at a Large Firm? The Distinct Roles of Education and Skills},
+  year      = {2021},
+  pages     = {465--69},
+  volume    = {111},
+  file      = {:Files/Arellano_Bover-2021-Who_gets_their_first_job_at_a_large_firm.pdf:PDF},
+}
+
+@Article{von2020persistent,
+  author  = {Von Wachter, Till},
+  journal = {Journal of Economic Perspectives},
+  title   = {The Persistent Effects of Initial Labor Market Conditions for Young Adults and Their Sources},
+  year    = {2020},
+  number  = {4},
+  pages   = {168--94},
+  volume  = {34},
+  file    = {:Files/Wachter-2020-The_persistent_effects_of_initial_labor_market_conditions_for_young_adults_and_their_sources.pdf:PDF},
+}
+
+@Article{liu2016good,
+  author    = {Liu, Kai and Salvanes, Kjell G and S{\o}rensen, Erik {\O}},
+  journal   = {European Economic Review},
+  title     = {Good skills in bad times: Cyclical skill mismatch and the long-term effects of graduating in a recession},
+  year      = {2016},
+  pages     = {3--17},
+  volume    = {84},
+  file      = {:Files/Liu_et_al-2015-Good_skills_in_bad_times.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@TechReport{altindag2021public,
+  author      = {Altindag, Onur and Greve, Jane and Tekin, Erdal},
+  institution = {National Bureau of Economic Research},
+  title       = {Public Health Policy At Scale: Impact of a Government-sponsored Information Campaign on Infant Mortality in Denmark},
+  year        = {2021},
+}
+
+@Article{lazuka2020infant,
+  author    = {Lazuka, Volha},
+  journal   = {Journal of Human Resources},
+  title     = {Infant Health and Later-Life Labor Market Outcomes Evidence from the Introduction of Sulfa Antibiotics in Sweden},
+  year      = {2020},
+  number    = {2},
+  pages     = {660--698},
+  volume    = {55},
+  publisher = {University of Wisconsin Press},
+}
+
+@Article{chong2009television,
+  author    = {Chong, Alberto and Ferrara, Eliana La},
+  journal   = {Journal of the European Economic Association},
+  title     = {Television and divorce: Evidence from Brazilian novelas, radio},
+  year      = {2009},
+  number    = {2-3},
+  pages     = {458--468},
+  volume    = {7},
+  file      = {:Files/Chong_LaFerrara-2009-Television_and_divorce_evidence_from_brazilian_novelas.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{hjort2017universal,
+  author    = {Hjort, Jonas and S{\o}lvsten, Mikkel and W{\"u}st, Miriam and others},
+  journal   = {American Economic Journal: Applied Economics},
+  title     = {Universal Investment in Infants and Long-Run Health: Evidence from Denmark's 1937 Home Visiting Program},
+  year      = {2017},
+  number    = {4},
+  pages     = {78--104},
+  volume    = {9},
+  publisher = {American Economic Association},
+}
+
+@Article{muller2018fanning,
+  author  = {M{\"u}ller, Karsten and Schwarz, Carlo},
+  journal = {Journal of the European Economic Association},
+  title   = {Fanning the flames of hate: Social media and hate crime},
+  year    = {2018},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
