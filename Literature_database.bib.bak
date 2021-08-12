@@ -2058,7 +2058,7 @@
   publisher = {Wiley Online Library},
 }
 
-@Article{schwandt2018lasting,
+@Misc{schwandt2018lasting,
   author    = {Schwandt, Hannes},
   title     = {The lasting legacy of seasonal influenza: In-utero exposure and labor market outcomes},
   year      = {2018},
@@ -4362,6 +4362,82 @@
   author = {Russo, Gianluca},
   title  = {Mass Media and Cultural Assimilation: Broadcasting the American Dream on the Radio},
   year   = {2020},
+  file   = {:Files/Russo-2020-Mass_media_and_cultural_assimilation.pdf:PDF},
+}
+
+@Article{10.1257/jep.35.3.25,
+  author  = {Alsan, Marcella and Chandra, Amitabh and Simon, Kosali},
+  journal = {Journal of Economic Perspectives},
+  title   = {The Great Unequalizer: Initial Health Effects of COVID-19 in the United States},
+  year    = {2021},
+  month   = {August},
+  number  = {3},
+  pages   = {25-46},
+  volume  = {35},
+  doi     = {10.1257/jep.35.3.25},
+  file    = {:Files/Alsan_et_al-2021-The_great_unequalizer.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/jep.35.3.25},
+}
+
+@Misc{engzell2021robust,
+  author    = {Engzell, Per and Mood, Carina},
+  title     = {How Robust Are Estimates of Intergenerational Income Mobility?},
+  year      = {2021},
+  file      = {:Files/Engzell_Mood-2021-How_robust_are_estimates_of_intergenerational_income_mobility.pdf:PDF},
+  publisher = {SocArXiv},
+}
+
+@Article{10.1257/app.20190410,
+  author  = {Gagliarducci, Stefano and Onorato, Massimiliano Gaetano and Sobbrio, Francesco and Tabellini, Guido},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {War of the Waves: Radio and Resistance during World War II},
+  year    = {2020},
+  month   = {October},
+  number  = {4},
+  pages   = {1-38},
+  volume  = {12},
+  doi     = {10.1257/app.20190410},
+  file    = {:Files/Gagliarducci_et_al-2020-War_of_the_waves.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/app.20190410},
+}
+
+@Article{trainotti1990simplified,
+  author  = {Trainotti, Valentin},
+  journal = {IEEE Antennas and Propagation Magazine},
+  title   = {Simplified calculation of coverage area for MF AM broadcast stations, radio},
+  year    = {1990},
+  number  = {3},
+  pages   = {41--44},
+  volume  = {32},
+}
+
+@Book{itu2014handbook,
+  author    = {Angulo, Itziar and Barclay, Les and Chrernov, Yuri and Deminco, Nick and Fernandez, Igor and Gil, Unai and Guerra, David and Milsom,John and Pena, Ivan and De La Vega, David},
+  publisher = {International Telecommunications Union (ITU)},
+  title     = {Handbook of Ground Wave Propagation, radio},
+  year      = {2014},
+}
+
+@Article{bernini2020voice,
+  author  = {Bernini, Andrea},
+  journal = {University of Oxford, Oxford Economic and Social History Working Papers},
+  title   = {The Voice of Radio in the Battle for Equal Rights: Evidence from the US South},
+  year    = {2020},
+  number  = {181},
+  file    = {:Files/Bernini-2020-The_voice_of_radio_in_the_battle_for_equal_rights.pdf:PDF},
+}
+
+@Article{10.1257/aer.20181135,
+  author  = {Armand, Alex and Atwell, Paul and Gomes, Joseph F.},
+  journal = {American Economic Review},
+  title   = {The Reach of Radio: Ending Civil Conflict through Rebel Demobilization},
+  year    = {2020},
+  month   = {May},
+  number  = {5},
+  pages   = {1395-1429},
+  volume  = {110},
+  doi     = {10.1257/aer.20181135},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/aer.20181135},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
