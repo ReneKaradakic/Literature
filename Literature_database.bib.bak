@@ -404,7 +404,7 @@
   timestamp = {2018.02.14},
 }
 
-@Article{manoli2010intertemporal,
+@Misc{manoli2010intertemporal,
   author = {Manoli, Dayanand and Weber, Andrea},
   title  = {Intertemporal Substitution in Labor Force Participation: Evidence from Policy Discontinuities},
   year   = {2010},
@@ -1770,13 +1770,16 @@
 }
 
 @Article{butikofer2015disease,
-  author  = {Butikofer, Aline and Salvanes, Kjell G},
-  journal = {NHH Dept. of Economics Discussion Paper},
-  title   = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign, mortality},
-  year    = {2015},
-  number  = {28},
-  file    = {:Files/Bütikofer_Salvanes-2015-Disease_control_and_inequality_reduction.pdf:PDF},
-  groups  = {Infectious_disease},
+  author    = {B{\"u}tikofer, Aline and Salvanes, Kjell G},
+  journal   = {The Review of Economic Studies},
+  title     = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign},
+  year      = {2020},
+  number    = {5},
+  pages     = {2087--2125},
+  volume    = {87},
+  file      = {:Files/Bütikofer_Salvanes-2015-Disease_control_and_inequality_reduction.pdf:PDF},
+  groups    = {Infectious_disease},
+  publisher = {Oxford University Press},
 }
 
 @Article{butikofer2019infant,
@@ -2167,7 +2170,7 @@
   file    = {:Files/Levitt-2004-Understanding_why_crime_rates_fell.pdf:PDF},
 }
 
-@Article{okuyama2019toward,
+@Misc{okuyama2019toward,
   author = {Okuyama, Yoko},
   title  = {Toward Better Informed Decision-Making: The Impacts of a Mass Media Campaign on Women’s Outcomes in Occupied Japan, radio},
   year   = {2019},
@@ -2412,9 +2415,9 @@
 }
 
 @TechReport{bursztyn2020pandemic,
-  author      = {Bursztyn, Leonardo and Rao, Aakaash and Roth, Christopher, and Yanagizawa-Drott, David},
-  institution = {Workin Paper Series},
-  title       = {Misinformation During a Pandemic},
+  author      = {Bursztyn, Leonardo and Rao, Aakaash and Roth, Christopher P and Yanagizawa-Drott, David H},
+  institution = {National Bureau of Economic Research},
+  title       = {Misinformation During a Pandemic, radio},
   year        = {2020},
   file        = {:Files/Bursztyn_et_al-2020-Misinformation_during_a_pandemic.pdf:PDF},
 }
@@ -4175,6 +4178,7 @@
   institution = {National Bureau of Economic Research},
   title       = {Public Health Policy At Scale: Impact of a Government-sponsored Information Campaign on Infant Mortality in Denmark},
   year        = {2021},
+  file        = {:Files/Altindag_et_al-2021-Public_health_policy_at_scale.pdf:PDF},
 }
 
 @Article{lazuka2020infant,
@@ -4185,6 +4189,7 @@
   number    = {2},
   pages     = {660--698},
   volume    = {55},
+  file      = {:Files/Lazuka-2020-Infant_health_and_later_life_labor_market_outcomes.pdf:PDF},
   publisher = {University of Wisconsin Press},
 }
 
@@ -4269,6 +4274,7 @@
   year      = {2020},
   pages     = {104196},
   volume    = {187},
+  file      = {:Files/Aaberge_et_al-2020-Estimating_long_run_income_inequality.pdf:PDF},
   publisher = {Elsevier},
 }
 
@@ -4358,7 +4364,7 @@
   file    = {:Files/Oreopoulos_et_al-2012-The_short_and_long_term_career_effects_of_graduating_in_a_recession.pdf:PDF},
 }
 
-@Article{russo2020mass,
+@Misc{russo2020mass,
   author = {Russo, Gianluca},
   title  = {Mass Media and Cultural Assimilation: Broadcasting the American Dream on the Radio},
   year   = {2020},
@@ -4430,14 +4436,292 @@
 @Article{10.1257/aer.20181135,
   author  = {Armand, Alex and Atwell, Paul and Gomes, Joseph F.},
   journal = {American Economic Review},
-  title   = {The Reach of Radio: Ending Civil Conflict through Rebel Demobilization},
+  title   = {The Reach of Radio: Ending Civil Conflict through Rebel Demobilization, radio},
   year    = {2020},
   month   = {May},
   number  = {5},
   pages   = {1395-1429},
   volume  = {110},
   doi     = {10.1257/aer.20181135},
+  file    = {:Files/Armand_et_al-2020-The_reach_of_radio.pdf:PDF},
   url     = {https://www.aeaweb.org/articles?id=10.1257/aer.20181135},
+}
+
+@Article{vosters2017intergenerational,
+  author    = {Vosters, Kelly and Nybom, Martin},
+  journal   = {Journal of Labor Economics},
+  title     = {Intergenerational persistence in latent socioeconomic status: evidence from Sweden and the United States},
+  year      = {2017},
+  number    = {3},
+  pages     = {869--901},
+  volume    = {35},
+  file      = {:Files/Vosters_Nybom-2017-Intergenerational_persistence_in_latent_socioeconomic_status.pdf:PDF},
+  groups    = {Mobility},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@Book{healy2018data,
+  author    = {Healy, Kieran},
+  publisher = {Princeton University Press},
+  title     = {Data visualization: a practical introduction},
+  year      = {2018},
+  file      = {:Files/Healy-2019-Data_visualization.pdf:PDF},
+}
+
+@Article{dustmann2020reallocation,
+  author  = {Dustmann, Christian and Lindner, Attila and Sch{\"o}nberg, Uta and Umkehrer, Matthias and Vom Berge, Philipp},
+  journal = {Centre for Research and Analysis of Migration Discussion Paper},
+  title   = {Reallocation effects of the minimum wage},
+  year    = {2020},
+  pages   = {20},
+  volume  = {7},
+  file    = {:Files/Dustmann_et_al-2021-Reallocation_effects_of_the_minimum_wage.pdf:PDF},
+}
+
+@Article{wang2020media,
+  author  = {Wang, Tianyi},
+  journal = {Pulpit, and Populist Persuasion: Evidence from Father Coughlin (April 22, 2020)},
+  title   = {Media, pulpit, and populist persuasion: Evidence from father coughlin, radio},
+  year    = {2020},
+  file    = {:Files/Wang-2020-Media_pulpit_and_populist_persuasion.pdf:PDF},
+}
+
+@Article{wakefield2010use,
+  author    = {Wakefield, Melanie A and Loken, Barbara and Hornik, Robert C},
+  journal   = {The Lancet},
+  title     = {Use of mass media campaigns to change health behaviour},
+  year      = {2010},
+  number    = {9748},
+  pages     = {1261--1271},
+  volume    = {376},
+  file      = {:Files/Wakefield_et_al-2010-Use_of_mass_media_campaigns_to_change_health_behaviour.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{waldfogelgeeoberholzer2009,
+  author  = {Oberholzer-Gee, Felix and Waldfogel, Joel},
+  journal = {American Economic Review},
+  title   = {Media Markets and Localism: Does Local News en Español Boost Hispanic Voter Turnout?, radio},
+  year    = {2009},
+  month   = {December},
+  number  = {5},
+  pages   = {2120-28},
+  volume  = {99},
+  doi     = {10.1257/aer.99.5.2120},
+  file    = {:Files/Oberholzer-Gee_Waldfogel-2009-Media_markets_and_localism.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/aer.99.5.2120},
+}
+
+@Misc{wang2021waves,
+  author = {Wang, Tianyi},
+  title  = {Waves of Empowerment: Black Radio and the Civil Rights Movement},
+  year   = {2021},
+  file   = {:Files/Wang-2021-Waves_of_Empowerment.pdf:PDF},
+}
+
+@Article{linnemayr2011almost,
+  author    = {Linnemayr, Sebastian and Alderman, Harold},
+  journal   = {Journal of Development Economics},
+  title     = {Almost random: Evaluating a large-scale randomized nutrition program in the presence of crossover},
+  year      = {2011},
+  number    = {1},
+  pages     = {106--114},
+  volume    = {96},
+  publisher = {Elsevier},
+}
+
+@Article{baird2016worms,
+  author    = {Baird, Sarah and Hicks, Joan Hamory and Kremer, Michael and Miguel, Edward},
+  journal   = {The quarterly journal of economics},
+  title     = {Worms at work: Long-run impacts of a child health investment},
+  year      = {2016},
+  number    = {4},
+  pages     = {1637--1680},
+  volume    = {131},
+  publisher = {MIT Press},
+}
+
+@Article{aizer2018low,
+  author  = {Aizer, Anna and Currie, Janet and Simon, Peter and Vivier, Patrick},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Do low levels of blood lead reduce children's future test scores?},
+  year    = {2018},
+  number  = {1},
+  pages   = {307--41},
+  volume  = {10},
+}
+
+@Article{gronqvist2020understanding,
+  author    = {Gr{\"o}nqvist, Hans and Nilsson, J Peter and Robling, Per-Olof},
+  journal   = {Journal of Political Economy},
+  title     = {Understanding How Low Levels of Early Lead Exposure Affect Children’s Life Trajectories},
+  year      = {2020},
+  number    = {9},
+  pages     = {3376--3433},
+  volume    = {128},
+  publisher = {The University of Chicago Press Chicago, IL},
+}
+
+@Article{sun2020estimating,
+  author    = {Sun, Liyang and Abraham, Sarah},
+  journal   = {Journal of Econometrics},
+  title     = {Estimating dynamic treatment effects in event studies with heterogeneous treatment effects},
+  year      = {2020},
+  file      = {:Files/Sun_Abraham-2021-Estimating_dynamic_treatment_effects.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{black2019only,
+  author    = {Black, Sandra E and B{\"u}tikofer, Aline and Devereux, Paul J and Salvanes, Kjell G},
+  journal   = {Review of Economics and Statistics},
+  title     = {This is only a test? Long-run and intergenerational impacts of prenatal exposure to radioactive fallout},
+  year      = {2019},
+  number    = {3},
+  pages     = {531--546},
+  volume    = {101},
+  file      = {:Files/Black_et_al-2019-This_is_only_a_test.pdf:PDF},
+  publisher = {MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…},
+}
+
+@Article{glennerster2021media,
+  author    = {Glennerster, Rachel and Murray, Joanna and Pouliquen, Victor},
+  title     = {The media or the message? Experimental evidence on mass media and modern contraception uptake in Burkina Faso, radio},
+  year      = {2021},
+  file      = {:Files/Glennerster_et_al-2021-The_media_or_the_message.pdf:PDF},
+  publisher = {Centre for the Study of African Economies},
+}
+
+@Article{nunn2012ruggedness,
+  author    = {Nunn, Nathan and Puga, Diego},
+  journal   = {Review of Economics and Statistics},
+  title     = {Ruggedness: The blessing of bad geography in Africa},
+  year      = {2012},
+  number    = {1},
+  pages     = {20--36},
+  volume    = {94},
+  file      = {:Files/Nunn_Puga-2012-Rugedness_the_blessing_of_bad_geography_in_africa.pdf:PDF},
+  publisher = {The MIT Press},
+}
+
+@Article{battles2017differences,
+  author    = {Battles, Heather T},
+  journal   = {Social Science History},
+  title     = {Differences in polio mortality by socioeconomic status in two southern Ontario counties, 1900--1937},
+  year      = {2017},
+  number    = {2},
+  pages     = {305--332},
+  volume    = {41},
+  file      = {:Files/Battles-2017-Differences_in_polio_mortality_by_SES.pdf:PDF},
+  publisher = {Cambridge University Press},
+}
+
+@Article{jensen2009power,
+  author    = {Jensen, Robert and Oster, Emily},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {The power of TV: Cable television and women's status in India},
+  year      = {2009},
+  number    = {3},
+  pages     = {1057--1094},
+  volume    = {124},
+  file      = {:Files/Jensen_Oster-2009-The_power_of_TV.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@TechReport{NBERw29356,
+  author      = {Finkelstein, Amy and Persson, Petra and Polyakova, Maria and Shapiro, Jesse M},
+  institution = {National Bureau of Economic Research},
+  title       = {A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise},
+  year        = {2021},
+  month       = {October},
+  number      = {29356},
+  type        = {Working Paper},
+  doi         = {10.3386/w29356},
+  file        = {:Files/Finkelstein_et_al-2021-A_taste_of_their_own_medicine.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w29356},
+}
+
+@Article{bhuller2013broadband,
+  author    = {Bhuller, Manudeep and Havnes, Tarjei and Leuven, Edwin and Mogstad, Magne},
+  journal   = {Review of Economic studies},
+  title     = {Broadband internet: An information superhighway to sex crime?},
+  year      = {2013},
+  number    = {4},
+  pages     = {1237--1266},
+  volume    = {80},
+  file      = {:Files/Bhuller_et_al-2013-Broadband_internet.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@TechReport{NBERw29095,
+  author      = {Acemoglu, Daron and Pekkarinen, Tuomas and Salvanes, Kjell G and Sarvimäki, Matti},
+  institution = {National Bureau of Economic Research},
+  title       = {The Making of Social Democracy: The Economic and Electoral Consequences of Norway’s 1936 Folk School Reform},
+  year        = {2021},
+  month       = {July},
+  number      = {29095},
+  type        = {Working Paper},
+  doi         = {10.3386/w29095},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w29095},
+}
+
+@Article{goodman2021difference,
+  author    = {Goodman-Bacon, Andrew},
+  journal   = {Journal of Econometrics},
+  title     = {Difference-in-differences with variation in treatment timing},
+  year      = {2021},
+  file      = {:Files/Goodman-Bacon-2021-Difference_in_differences_with_variation_in_treatment_timing.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{gentzkow2019text,
+  author  = {Gentzkow, Matthew and Kelly, Bryan and Taddy, Matt},
+  journal = {Journal of Economic Literature},
+  title   = {Text as data},
+  year    = {2019},
+  number  = {3},
+  pages   = {535--74},
+  volume  = {57},
+  file    = {:Files/Gentzkow_et_al-2019-Text_as_data.pdf:PDF},
+}
+
+@Book{dahl1975hallo,
+  author    = {Dahl, Hans Fredrik},
+  publisher = {Cappelen},
+  title     = {Hallo--hallo!: Kringkastingen i Norge, 1920-1940, radio},
+  year      = {1975},
+  volume    = {1},
+}
+
+@Article{grytten2008economic,
+  author  = {Grytten, Ola},
+  journal = {EH. Net Encyclopedia, edited by Robert Whaples},
+  title   = {The economic history of Norway},
+  year    = {2008},
+  url     = {https://www.eh.net/page/12/?s=new+world+economies},
+}
+
+@Article{hubbard2006public,
+  author    = {Hubbard, William H},
+  journal   = {Medical history},
+  title     = {Public health in Norway 1603--2003},
+  year      = {2006},
+  number    = {1},
+  pages     = {113--117},
+  volume    = {50},
+  publisher = {Cambridge University Press},
+}
+
+@Article{butikofer2018childhood,
+  author    = {B{\"u}tikofer, Aline and M{\o}lland, Eirin and Salvanes, Kjell G},
+  journal   = {Journal of Public Economics},
+  title     = {Childhood nutrition and labor market outcomes: Evidence from a school breakfast program},
+  year      = {2018},
+  pages     = {62--80},
+  volume    = {168},
+  file      = {:Files/Bütikofer_et_al-2018-Childhood_nutrition_and_labor_market_outcomes.pdf:PDF},
+  publisher = {Elsevier},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -4446,10 +4730,10 @@
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
+1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;0x990000ff\;\;\;;
 1 StaticGroup:Mental Health\;0\;1\;0x006400ff\;\;Literature related to mental health, physical, fetal origins hypothesis and the long term economic consequences of (mental) health shocks\;;
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
 1 KeywordGroup:Mortality\;0\;title\;mortality\;0\;0\;0\;0x4d3399ff\;\;\;;
-1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;\;\;\;;
 1 StaticGroup:Mobility\;0\;0\;0xb34d1aff\;\;Intergenerational mobility resarch\;;
 1 StaticGroup:R Citations\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Infectious_disease\;0\;0\;0x8a8a8aff\;\;\;;
