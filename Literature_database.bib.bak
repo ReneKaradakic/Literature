@@ -1772,7 +1772,7 @@
 @Article{butikofer2015disease,
   author    = {B{\"u}tikofer, Aline and Salvanes, Kjell G},
   journal   = {The Review of Economic Studies},
-  title     = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign},
+  title     = {Disease control and inequality reduction: Evidence from a tuberculosis testing and vaccination campaign, radio},
   year      = {2020},
   number    = {5},
   pages     = {2087--2125},
@@ -4480,9 +4480,12 @@
 
 @Article{wang2020media,
   author  = {Wang, Tianyi},
-  journal = {Pulpit, and Populist Persuasion: Evidence from Father Coughlin (April 22, 2020)},
+  journal = {American Economic Review},
   title   = {Media, pulpit, and populist persuasion: Evidence from father coughlin, radio},
-  year    = {2020},
+  year    = {2021},
+  number  = {9},
+  pages   = {3064--92},
+  volume  = {111},
   file    = {:Files/Wang-2020-Media_pulpit_and_populist_persuasion.pdf:PDF},
 }
 
@@ -4722,6 +4725,74 @@
   volume    = {168},
   file      = {:Files/Bütikofer_et_al-2018-Childhood_nutrition_and_labor_market_outcomes.pdf:PDF},
   publisher = {Elsevier},
+}
+
+@Article{chernozhukov2021causal,
+  author    = {Chernozhukov, Victor and Kasahara, Hiroyuki and Schrimpf, Paul},
+  journal   = {Journal of econometrics},
+  title     = {Causal impact of masks, policies, behavior on early covid-19 pandemic in the US},
+  year      = {2021},
+  number    = {1},
+  pages     = {23--62},
+  volume    = {220},
+  publisher = {Elsevier},
+}
+
+@Article{riley1999terrain,
+  author  = {Riley, SJ and DeGloria, SD and Elliot, R},
+  journal = {J. Soil Sci},
+  title   = {A terrain ruggedness index that quantifies topographic heterogeneity. Int},
+  year    = {1999},
+  volume  = {5},
+}
+
+@Article{fink2021early,
+  author    = {Fink, G{\"u}nther and Venkataramani, Atheendar S and Zanolini, Arianna},
+  journal   = {Journal of Health Economics},
+  title     = {Early life adversity, biological adaptation, and human capital: evidence from an interrupted malaria control program in Zambia},
+  year      = {2021},
+  pages     = {102532},
+  volume    = {80},
+  file      = {:Files/Fink_et_al-2021-Early_life_adversity_biological_adaptation_and_human_capital.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{schneider2021effect,
+  author    = {Schneider, Eric},
+  title     = {The effect of nutritional status on historical infectious disease morbidity: evidence from the London Foundling Hospital, 1892-1919},
+  year      = {2021},
+  file      = {:Files/Schneider_2021-The_effect_of_nutritional_status_on_historical_infectious_disease_morbidity.pdf:PDF},
+  publisher = {CEPR Discussion Paper No. DP16361},
+}
+
+@Article{stromberg2004radio,
+  author    = {Str{\"o}mberg, David},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {Radio's impact on public spending, radio},
+  year      = {2004},
+  number    = {1},
+  pages     = {189--221},
+  volume    = {119},
+  file      = {:Files/Strömberg-2004-Radios_impact_on_public_spending.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{alsan2021experimental,
+  author  = {Alsan, Marcella and Eichmeyer, Sarah},
+  journal = {NBER Working Paper},
+  title   = {Experimental Evidence on the Effectiveness of Non-Experts for Improving Vaccine Demand},
+  year    = {2021},
+  volume  = {28593},
+  file    = {:Files/Alsan_Eichmeyer-2021-Experimental_evidence_on_the effectiveness_of non_experts.pdf:PDF},
+}
+
+@Article{willen2019can,
+  author  = {Will{\'e}n, Alexander and Riise, Julie and Willage, Barton},
+  journal = {NHH Dept. of Economics Discussion Paper},
+  title   = {Can female doctors cure the gender STEMM gap? Evidence from randomly assigned general practitioners},
+  year    = {2019},
+  number  = {18},
+  file    = {:Files/Riise_et_al-2019-Can_female_doctors_cure_the_gender_stemm_gap.pdf:PDF},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
