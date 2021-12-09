@@ -4795,6 +4795,25 @@
   file    = {:Files/Riise_et_al-2019-Can_female_doctors_cure_the_gender_stemm_gap.pdf:PDF},
 }
 
+@Article{grytten2017saving,
+  author    = {Grytten, Jostein and Monkerud, Lars and Skau, Irene and Eskild, Anne and S{\o}rensen, Rune J and Saugstad, Ola Didrik},
+  journal   = {Health Economics},
+  title     = {Saving newborn babies--The benefits of interventions in neonatal care in Norway over more than 40 years},
+  year      = {2017},
+  number    = {3},
+  pages     = {352--370},
+  volume    = {26},
+  file      = {:Files/Grytten_et_al-2017-Saving_newborn_babies.pdf:PDF},
+  publisher = {Wiley Online Library},
+}
+
+@Article{reynolds2019increased,
+  author = {Reynolds, Nicholas},
+  title  = {Increased mortality of white Americans and a decline in the health of cohorts born after World War II},
+  year   = {2021},
+  file   = {:Files/Reynolds-2021-Increased_mortality_of_white_Americans.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}

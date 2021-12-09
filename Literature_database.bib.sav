@@ -4807,6 +4807,13 @@
   publisher = {Wiley Online Library},
 }
 
+@Article{reynolds2019increased,
+  author = {Reynolds, Nicholas},
+  title  = {Increased mortality of white Americans and a decline in the health of cohorts born after World War II},
+  year   = {2021},
+  file   = {:Files/Reynolds-2021-Increased_mortality_of_white_Americans.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
