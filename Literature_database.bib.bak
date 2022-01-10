@@ -1,5 +1,3 @@
-% Encoding: UTF-8
-
 @Article{acemoglu2000productivity,
   author    = {Acemoglu, Daron and Shimer, Robert},
   title     = {Productivity gains from unemployment insurance},
@@ -4190,6 +4188,7 @@
   pages     = {660--698},
   volume    = {55},
   file      = {:Files/Lazuka-2020-Infant_health_and_later_life_labor_market_outcomes.pdf:PDF},
+  groups    = {Antibiotics},
   publisher = {University of Wisconsin Press},
 }
 
@@ -4814,13 +4813,398 @@
   file   = {:Files/Reynolds-2021-Increased_mortality_of_white_Americans.pdf:PDF},
 }
 
+@Article{almond2009chernobyl,
+  author    = {Almond, Douglas and Edlund, Lena and Palme, M{\aa}rten},
+  journal   = {The Quarterly journal of economics},
+  title     = {Chernobyl's subclinical legacy: prenatal exposure to radioactive fallout and school outcomes in Sweden},
+  year      = {2009},
+  number    = {4},
+  pages     = {1729--1772},
+  volume    = {124},
+  file      = {:Files/Almond_et_al-2009-Chernobyls_subclinical_legacy.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{balsvik2015made,
+  author    = {Balsvik, Ragnhild and Jensen, Sissel and Salvanes, Kjell G},
+  journal   = {Journal of Public Economics},
+  title     = {Made in China, sold in Norway: Local labor market effects of an import shock},
+  year      = {2015},
+  pages     = {137--144},
+  volume    = {127},
+  file      = {:Files/Balsvik_et_al-2015-Made_in_china_sold_in_Norway.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{black2021sibling,
+  author    = {Black, Sandra E and Breining, Sanni and Figlio, David N and Guryan, Jonathan and Karbownik, Krzysztof and Nielsen, Helena Skyt and Roth, Jeffrey and Simonsen, Marianne},
+  journal   = {The Economic Journal},
+  title     = {Sibling spillovers},
+  year      = {2021},
+  number    = {633},
+  pages     = {101--128},
+  volume    = {131},
+  file      = {:Files/Black_et_al-2021-Sibling_spillovers.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{manski1993identification,
+  author    = {Manski, Charles F},
+  journal   = {The review of economic studies},
+  title     = {Identification of endogenous social effects: The reflection problem},
+  year      = {1993},
+  number    = {3},
+  pages     = {531--542},
+  volume    = {60},
+  file      = {:Files/Manski-1993-Identification_of_endogenous_social_effects.pdf:PDF},
+  publisher = {Wiley-Blackwell},
+}
+
+@TechReport{daysal2021germs,
+  author      = {Daysal, N Meltem and Ding, Hui and Rossin-Slater, Maya and Schwandt, Hannes},
+  institution = {National Bureau of Economic Research},
+  title       = {Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread},
+  year        = {2021},
+  file        = {:Files/Daysal_et_al-2021-Germs_in_the_family.pdf:PDF},
+}
+
+@Article{uzan2021neonatal,
+  author    = {Uzan-Yulzari, Atara and Turta, Olli and Belogolovski, Anna and Ziv, Oren and Kunz, Christina and Perschbacher, Sarah and Neuman, Hadar and Pasolli, Edoardo and Oz, Aia and Ben-Amram, Hila and others},
+  journal   = {Nature communications},
+  title     = {Neonatal antibiotic exposure impairs child growth during the first six years of life by perturbing intestinal microbial colonization},
+  year      = {2021},
+  number    = {1},
+  pages     = {1--12},
+  volume    = {12},
+  file      = {:Files/Uzan-Yulzari_et_al-2021-Neonatal_antibiotic_exposure_impairs_child_growth.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{havnes2011no,
+  author  = {Havnes, Tarjei and Mogstad, Magne},
+  journal = {American Economic Journal: Economic Policy},
+  title   = {No child left behind: Subsidized child care and children's long-run outcomes},
+  year    = {2011},
+  number  = {2},
+  pages   = {97--129},
+  volume  = {3},
+  file    = {:Files/Havnes_Mogstad-2011-No_child_left_behind.pdf:PDF},
+}
+
+@Article{landaud2021lucky,
+  author = {Landaud, Fanny and Maurin, {\'E}ric and Willage, Barton and Willén, Alexander},
+  title  = {Getting Lucky: The Long-Term Consequences of Exam Luck},
+  year   = {2021},
+  file   = {:Files/Landaud_et_al-2021-Getting_lucky.pdf:PDF},
+}
+
+@Article{buckles2016effect,
+  author    = {Buckles, Kasey and Hagemann, Andreas and Malamud, Ofer and Morrill, Melinda and Wozniak, Abigail},
+  journal   = {Journal of Health Economics},
+  title     = {The effect of college education on mortality},
+  year      = {2016},
+  pages     = {99--114},
+  volume    = {50},
+  file      = {:Files/Buckles_et_al-2016-The_effects_of_college_education_on_mortality.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{schwandt2021inequality,
+  author    = {Schwandt, Hannes and Currie, Janet and B{\"a}r, Marlies and Banks, James and Bertoli, Paola and B{\"u}tikofer, Aline and Cattan, Sarah and Chao, Beatrice Zong-Ying and Costa, Claudia and Gonz{\'a}lez, Libertad and others},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Inequality in mortality between Black and White Americans by age, place, and cause and in comparison to Europe, 1990 to 2018},
+  year      = {2021},
+  number    = {40},
+  volume    = {118},
+  groups    = {My_papers},
+  publisher = {National Acad Sciences},
+}
+
+@TechReport{ahrsjo2021intergenerational,
+  author      = {Ahrsj{\"o}, Ulrika and Karadakic, Ren{\'e} and Rasmussen, Joachim Kahr and others},
+  institution = {University of Copenhagen. Department of Economics. The Center for Economic~…},
+  title       = {Intergenerational Mobility Trends and the Changing Role of Female Labor},
+  year        = {2021},
+  groups      = {My_papers},
+}
+
+@Article{dierikx2020influence,
+  author    = {Dierikx, TH and Visser, DH and Benninga, MA and van Kaam, AHLC and De Boer, NKH and De Vries, R and Van Limbergen, J and de Meij, TGJ},
+  journal   = {Journal of Infection},
+  title     = {The influence of prenatal and intrapartum antibiotics on intestinal microbiota colonisation in infants: a systematic review},
+  year      = {2020},
+  number    = {2},
+  pages     = {190--204},
+  volume    = {81},
+  file      = {:Files/Dierikx_et_al-2020-The_influence_of_prenatal_and_intrapartum_antibiotics.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Elsevier},
+}
+
+@Article{koebnick2019effect,
+  author    = {Koebnick, Corinna and Tartof, Sara Y and Sidell, Margo A and Rozema, Emily and Chung, Joanie and Chiu, Vicki Y and Taylor, Zackary W and Xiang, Anny H and Getahun, Darios},
+  journal   = {JMIR research protocols},
+  title     = {Effect of in-utero antibiotic exposure on childhood outcomes: methods and baseline data of the Fetal Antibiotic Exposure (FAX) cohort study},
+  year      = {2019},
+  number    = {7},
+  pages     = {e12065},
+  volume    = {8},
+  file      = {:Files/Koebnick_et_al-2019-Effect_of_in_utero_antibiotic_exposure.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {JMIR Publications Inc., Toronto, Canada},
+}
+
+@Article{seedat2017adverse,
+  author    = {Seedat, Farah and Stinton, Chris and Patterson, Jacoby and Geppert, Julia and Tan, Bee and Robinson, Esther R and McCarthy, Noel Denis and Uthman, Olalekan A and Freeman, Karoline and Johnson, Samantha Ann and others},
+  journal   = {BMC pregnancy and childbirth},
+  title     = {Adverse events in women and children who have received intrapartum antibiotic prophylaxis treatment: a systematic review},
+  year      = {2017},
+  number    = {1},
+  pages     = {1--14},
+  volume    = {17},
+  file      = {:Files/Seedat_et_al-2017-Adverse_events_in_women_and_children_who_have_received_intrapartum_antibiotic.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {BioMed Central},
+}
+
+@Article{lacroix2019effect,
+  author    = {Lacroix, Guy and Lalibert{\'e}-Auger, Francois and Michaud, Pierre-Carl and Parent, Daniel},
+  journal   = {Health economics},
+  title     = {The effect of college education on health and mortality: Evidence from Canada, mortality},
+  year      = {2019},
+  file      = {:Files/Lacroix_et_al-2019-The_effect_of_college_education_on_health_and_mortality.pdf:PDF},
+  publisher = {Wiley Online Library},
+}
+
+@Article{fossum2018prescribing,
+  author    = {Fossum, Guro Haugen and Gjelstad, Svein and Kv{\ae}rner, Kari J and Lindbaek, Morten},
+  journal   = {BJGP open},
+  title     = {Prescribing antibiotics when the stakes are higher—do GPs prescribe less when patients are pregnant? A retrospective observational study},
+  year      = {2018},
+  number    = {2},
+  volume    = {2},
+  file      = {:Files/Fossum_et_al-2017-Prescribing_antibiotics_when_the_stakes_are_higher.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Royal College of General Practitioners},
+}
+
+@Article{kuperman2016antibiotic,
+  author    = {Kuperman, Amir A and Koren, Omry},
+  journal   = {BMC medicine},
+  title     = {Antibiotic use during pregnancy: how bad is it?},
+  year      = {2016},
+  number    = {1},
+  pages     = {1--7},
+  volume    = {14},
+  file      = {:Files/Kuperman_Koren-2016-Antibiotic_use_during_pregnancy.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {BioMed Central},
+}
+
+@Article{rakoff2015analysis,
+  author    = {Rakoff-Nahoum, Seth and Kong, Yong and Kleinstein, Steven H and Subramanian, Sathish and Ahern, Philip P and Gordon, Jeffrey I and Medzhitov, Ruslan},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Analysis of gene--environment interactions in postnatal development of the mammalian intestine},
+  year      = {2015},
+  number    = {7},
+  pages     = {1929--1936},
+  volume    = {112},
+  file      = {:Files/Rakoof-Nahoum_et_al-2014-Analysis_of_gene_environment_interactions_in_postnatal_development.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {National Acad Sciences},
+}
+
+@Article{engeland2018trends,
+  author    = {Engeland, Anders and Bj{\o}rge, Tone and Klungs{\o}yr, Kari and Hjellvik, Vidar and Skurtveit, Svetlana and Furu, Kari},
+  journal   = {Pharmacoepidemiology and drug safety},
+  title     = {Trends in prescription drug use during pregnancy and postpartum in Norway, 2005 to 2015},
+  year      = {2018},
+  number    = {9},
+  pages     = {995--1004},
+  volume    = {27},
+  file      = {:Files/Engeland_et_al-2018-Trends_in_prescription_drug_use_during_pregnancy_and_postpartum.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{espnes2011comparison,
+  author    = {Espnes, Marte Gravseth and Bj{\o}rge, Tone and Engeland, Anders},
+  journal   = {Pharmacoepidemiology and drug safety},
+  title     = {Comparison of recorded medication use in the Medical Birth Registry of Norway with prescribed medicines registered in the Norwegian Prescription Database},
+  year      = {2011},
+  number    = {3},
+  pages     = {243--248},
+  volume    = {20},
+  file      = {:Files/Espnes_et_al-2011-Comparison_of_recorded_medication_use_in_the_MBRN.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{trinh2021use,
+  author    = {Trinh, Nhung Thi Hong and Hjorth, Sarah and Nordeng, Hedvig Marie Egeland},
+  journal   = {BMJ open},
+  title     = {Use of interrupted time-series analysis to characterise antibiotic prescription fills across pregnancy: a Norwegian nationwide cohort study},
+  year      = {2021},
+  number    = {12},
+  pages     = {e050569},
+  volume    = {11},
+  file      = {:Files/Trinh_et_al-2021-Use_of_interrupted_time_series_analysis.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {British Medical Journal Publishing Group},
+}
+
+@Article{nordeng2016bruk,
+  author  = {Nordeng, Stina and Nordeng, Hedvig and H{\o}ye, Sigurd},
+  journal = {Tidsskrift for Den norske legeforening},
+  title   = {Bruk av antibiotika i svangerskapet},
+  year    = {2016},
+  file    = {:Files/Nordeng_et_al-2016-Bruk_av_antibiotika_i_svangerskapet.pdf:PDF},
+  groups  = {Antibiotics},
+  url     = {https://tidsskriftet.no/2016/02/oversiktsartikkel/bruk-av-antibiotika-i-svangerskapet},
+}
+
+@Article{rossignol2013method,
+  author    = {Rossignol, Louise and Pelat, Camille and Lambert, Bruno and Flahault, Antoine and Chartier-Kastler, Emmanuel and Hanslik, Thomas},
+  journal   = {PloS one},
+  title     = {A method to assess seasonality of urinary tract infections based on medication sales and google trends},
+  year      = {2013},
+  number    = {10},
+  pages     = {e76020},
+  volume    = {8},
+  file      = {:Files/Rossignol_et_al-2013-A_method_to_assess_seasonality_of_UTI.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Public Library of Science San Francisco, USA},
+}
+
+@Article{vidal2013associations,
+  author    = {Vidal, AC and Murphy, SK and Murtha, AP and Schildkraut, JM and Soubry, Adelheid and Huang, Z and Neelon, SEB and Fuemmeler, B and Iversen, E and Wang, F and others},
+  journal   = {International journal of obesity},
+  title     = {Associations between antibiotic exposure during pregnancy, birth weight and aberrant methylation at imprinted genes among offspring},
+  year      = {2013},
+  number    = {7},
+  pages     = {907--913},
+  volume    = {37},
+  file      = {:Files/Vidal_et_al-2013-Associations_between_antibiotic_exposure_during_pregnancy_and_birth_weight.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{jepsen2003population,
+  author    = {Jepsen, Peter and Skriver, Mette V and Floyd, Andrea and Lipworth, Loren and Sch{\o}nheyder, Henrik C and S{\o}rensen, Henrik T},
+  journal   = {British journal of clinical pharmacology},
+  title     = {A population-based study of maternal use of amoxicillin and pregnancy outcome in Denmark},
+  year      = {2003},
+  number    = {2},
+  pages     = {216--221},
+  volume    = {55},
+  file      = {:Files/Jepsen_et_al-2002-A_population_base_study_of_maternal_use_of.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{czeizel1998use,
+  author    = {Czeizel, Andrew E and Rockenbauer, Magda and Olsen, Jorn},
+  journal   = {European Journal of Obstetrics \& Gynecology and Reproductive Biology},
+  title     = {Use of antibiotics during pregnancy},
+  year      = {1998},
+  number    = {1},
+  pages     = {1--8},
+  volume    = {81},
+  groups    = {Antibiotics},
+  publisher = {Elsevier},
+}
+
+@Article{costa2020long,
+  author    = {Costa-Ram{\'o}n, Ana and Kortelainen, Mika and Rodr{\'\i}guez-Gonz{\'a}lez, Ana and S{\"a}{\"a}ksvuori, Lauri},
+  journal   = {Journal of Human Resources},
+  title     = {The long-run effects of cesarean sections},
+  year      = {2020},
+  pages     = {0719--10334R1},
+  file      = {:Files/Costa-Ramon_et_al-2020-The_long_run_effects_of_cesarean_sections.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {University of Wisconsin Press},
+}
+
+@Article{mueller2017association,
+  author    = {Mueller, Noel T and Rifas-Shiman, Sheryl L and Blaser, Martin J and Gillman, Matthew W and Hivert, M-F},
+  journal   = {Pediatric obesity},
+  title     = {Association of prenatal antibiotics with foetal size and cord blood leptin and adiponectin},
+  year      = {2017},
+  number    = {2},
+  pages     = {129--136},
+  volume    = {12},
+  file      = {:Files/Mueller_et_al-2015-Association_of_prenatal_antibiotics_with_foetal_size.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{mueller2015prenatal,
+  author    = {Mueller, Noel T and Whyatt, Robin and Hoepner, Lori and Oberfield, Sharon and Dominguez-Bello, M Gloria and Widen, EM and Hassoun, A and Perera, F and Rundle, A},
+  journal   = {International journal of obesity},
+  title     = {Prenatal exposure to antibiotics, cesarean section and risk of childhood obesity},
+  year      = {2015},
+  number    = {4},
+  pages     = {665--670},
+  volume    = {39},
+  file      = {:Files/Mueller_et_al-2015-Prenatal_exposure_to_antibiotics_cesarean_section_and_risk_childhood_obesity.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{rasmussen2018antibiotic,
+  author    = {Rasmussen, Sara H and Shrestha, Sarita and Bjerregaard, Lise G and {\"A}ngquist, Lars H and Baker, Jennifer L and Jess, Tine and Allin, Kristine H},
+  journal   = {Diabetes, Obesity and Metabolism},
+  title     = {Antibiotic exposure in early life and childhood overweight and obesity: a systematic review and meta-analysis},
+  year      = {2018},
+  number    = {6},
+  pages     = {1508--1514},
+  volume    = {20},
+  file      = {:Files/Rasmussen_et_al-2018-Antibiotic_exposure_in_early_life_and_childhood_overweight.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{tomar2021prenatal,
+  author    = {Tomar, Nupoor and Uldbjerg, Cecilie Skaarup and Bech, Bodil Hammer and Burgner, David P and Pedersen, Lars Henning and Miller, Jessica Eden},
+  journal   = {Pediatric Obesity},
+  title     = {Prenatal antibiotic exposure and birth weight},
+  year      = {2021},
+  pages     = {e12831},
+  groups    = {Antibiotics},
+  publisher = {Wiley Online Library},
+}
+
+@Article{nahum2006antibiotic,
+  author    = {Nahum, Gerard G and Uhl, Kathleen and Kennedy, Dianne L},
+  journal   = {Obstetrics \& Gynecology},
+  title     = {Antibiotic use in pregnancy and lactation: what is and is not known about teratogenic and toxic risks},
+  year      = {2006},
+  number    = {5},
+  pages     = {1120--1138},
+  volume    = {107},
+  groups    = {Antibiotics},
+  publisher = {LWW},
+}
+
+@Article{markussen2017market,
+  author    = {Markussen, Simen and R{\o}ed, Knut},
+  journal   = {Journal of health economics},
+  title     = {The market for paid sick leave},
+  year      = {2017},
+  pages     = {244--261},
+  volume    = {55},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:/home/rene/Dropbox/NHH/Literature;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;1\;0x990000ff\;\;\;;
+1 StaticGroup:Antibiotics\;0\;0\;0xff00ffff\;\;\;;
+1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;0\;0x990000ff\;\;\;;
 1 StaticGroup:Mental Health\;0\;1\;0x006400ff\;\;Literature related to mental health, physical, fetal origins hypothesis and the long term economic consequences of (mental) health shocks\;;
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
 1 KeywordGroup:Mortality\;0\;title\;mortality\;0\;0\;0\;0x4d3399ff\;\;\;;
