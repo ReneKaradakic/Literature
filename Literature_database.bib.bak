@@ -688,6 +688,7 @@
   author    = {Angrist, Joshua and Pischke, J{\"o}rn-Steffen},
   title     = {Mostly harmless econometrics: an empiricists guide},
   year      = {2009},
+  file      = {:Files/Angrist_Pischke-2008-Mostly_harmless_econometrics.pdf:PDF},
   publisher = {Princeton: Princeton University Press},
 }
 
@@ -1266,26 +1267,26 @@
 
 @Article{persson2018family,
   author  = {Persson, Petra and Rossin-Slater, Maya},
-  title   = {Family ruptures, stress, and the mental health of the next generation},
   journal = {American economic review},
+  title   = {Family ruptures, stress, and the mental health of the next generation},
   year    = {2018},
-  volume  = {108},
   number  = {4-5},
   pages   = {1214--52},
+  volume  = {108},
   file    = {:Files/Persson_Rossin-Slater-2018-Family_ruptures_stress_and_the_mental_health_of_the next_generation.pdf:PDF},
-  groups  = {Mental Health},
+  groups  = {Mental Health, Antibiotics},
 }
 
 @Article{black2016does,
   author  = {Black, Sandra E and Devereux, Paul J and Salvanes, Kjell G},
-  title   = {Does grief transfer across generations? bereavements during pregnancy and child outcomes},
   journal = {American Economic Journal: Applied Economics},
+  title   = {Does grief transfer across generations? bereavements during pregnancy and child outcomes},
   year    = {2016},
-  volume  = {8},
   number  = {1},
   pages   = {193--223},
+  volume  = {8},
   file    = {:Files/Black_et_al-2016-Does_grief_transfer_across_generations.pdf:PDF},
-  groups  = {Mental Health},
+  groups  = {Mental Health, Antibiotics},
 }
 
 @Article{currie2011inequality,
@@ -1309,7 +1310,7 @@
   pages   = {1360--1446},
   volume  = {56},
   file    = {:Files/Almond_et_al-2018-Childhood_circumstances_and_adult_outcomes_act_II.pdf:PDF},
-  groups  = {Mental Health},
+  groups  = {Mental Health, Antibiotics},
 }
 
 @TechReport{golberstein2016economic,
@@ -1404,7 +1405,7 @@
   pages     = {136--144},
   volume    = {66},
   file      = {:Files/Bharadwaj_et_al-2019- Birth_weight_and_vulnerability_to_a_macroeconomic_crisis.pdf:PDF},
-  groups    = {Mental Health},
+  groups    = {Mental Health, Antibiotics},
   publisher = {Elsevier},
 }
 
@@ -1923,6 +1924,7 @@
   title     = {The Impact of Car Pollution on Infant and Child Health: Evidence from Emissions Cheating, mortality},
   year      = {2019},
   file      = {:Files/Alexander_Schwandt-2019-The_impact_of_car_pollution_on_infant_and_child_health.pdf:PDF},
+  groups    = {Antibiotics},
   publisher = {FRB of Chicago Working Paper No. WP-2019-4},
 }
 
@@ -3141,6 +3143,7 @@
   pages   = {1862--91},
   volume  = {103},
   file    = {:Files/Bharadwaj_Loken-2013-Early_life_health_interventions_and_academic_achievement.pdf:PDF},
+  groups  = {Antibiotics},
 }
 
 @Article{bratlid2010treatment,
@@ -3559,7 +3562,7 @@
   number  = {2},
   pages   = {104--09},
   volume  = {99},
-  file    = {:/home/renekaradakic/Dropbox/NHH/Literature/Files/Case_Paxson-2009-Early_life_health_and_cognitive_function_in_old_age.pdf:PDF},
+  file    = {:/home/rene/Dropbox/NHH/Literature/Files/Case_Paxson-2009-Early_life_health_and_cognitive_function_in_old_age.pdf:PDF},
   groups  = {Infectious_disease},
 }
 
@@ -3892,7 +3895,7 @@
   number    = {1},
   pages     = {207--245},
   volume    = {80},
-  file      = {:Files/Leknes_Modalsli-2018-Who_benefitted_from_industrialisation_WP.pdf:PDF},
+  file      = {:Files/Leknes_Modalsli-2020-Industrialiaziation_online_appendix.pdf:PDF;:Files/Leknes_Modalsli-2021-Who_benefited_from_industrialisation.pdf:PDF},
   publisher = {Cambridge University Press},
   url       = {https://www.ssb.no/en/forskning/discussion-papers/_attachment/348286},
 }
@@ -4296,6 +4299,8 @@
   number    = {3},
   pages     = {523--555},
   volume    = {51},
+  file      = {:Files/Aizer_et_al-2016-Maternl_stress_and_child_outcomes.pdf:PDF},
+  groups    = {Antibiotics},
   publisher = {University of Wisconsin Press},
 }
 
@@ -4822,6 +4827,7 @@
   pages     = {1729--1772},
   volume    = {124},
   file      = {:Files/Almond_et_al-2009-Chernobyls_subclinical_legacy.pdf:PDF},
+  groups    = {Antibiotics},
   publisher = {MIT Press},
 }
 
@@ -4866,6 +4872,7 @@
   title       = {Germs in the Family: The Long-Term Consequences of Intra-Household Endemic Respiratory Disease Spread},
   year        = {2021},
   file        = {:Files/Daysal_et_al-2021-Germs_in_the_family.pdf:PDF},
+  groups      = {Antibiotics},
 }
 
 @Article{uzan2021neonatal,
@@ -4890,6 +4897,7 @@
   pages   = {97--129},
   volume  = {3},
   file    = {:Files/Havnes_Mogstad-2011-No_child_left_behind.pdf:PDF},
+  groups  = {Antibiotics},
 }
 
 @Article{landaud2021lucky,
@@ -5194,7 +5202,397 @@
   year      = {2017},
   pages     = {244--261},
   volume    = {55},
+  file      = {:Files/Markussen_Roed-2017-The_market_for_paid_sick_leave.pdf:PDF},
+  groups    = {Antibiotics},
   publisher = {Elsevier},
+}
+
+@Article{gjelstad2011general,
+  author    = {Gjelstad, Svein and Straand, J{\o}rund and Dalen, Ingvild and Fetveit, Arne and Str{\o}m, Hanne and Lindb{\ae}k, Morten},
+  journal   = {Journal of antimicrobial chemotherapy},
+  title     = {Do general practitioners’ consultation rates influence their prescribing patterns of antibiotics for acute respiratory tract infections?},
+  year      = {2011},
+  number    = {10},
+  pages     = {2425--2433},
+  volume    = {66},
+  file      = {:Files/Gjelstad_et_al-2011-Do_GPs_consulations_rates_influence_their_prescribing_patterns.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Oxford University Press},
+}
+
+@Article{walle2018geographic,
+  author    = {Walle-Hansen, Marte Meyer and H{\o}ye, Sigurd},
+  journal   = {Antibiotics},
+  title     = {Geographic Variation in Antibiotic Consumption—Is It Due to Doctors’ Prescribing or Patients’ Consulting?},
+  year      = {2018},
+  number    = {1},
+  pages     = {26},
+  volume    = {7},
+  file      = {:Files/Walle-Hansen_Hoye-2018-Geographic_variation_in_antibiotic_consumption.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}
+
+@Article{rantala2020maternal,
+  author    = {Rantala, Aino-Kaisa and Tapia, German and Magnus, Maria Christine and Karlstad, {\O}ystein and St{\o}rdal, Ketil and H{\aa}berg, Siri and Stene, Lars Christian and Jaakkola, Jouni JK and Nystad, Wenche},
+  title     = {Maternal antibiotic use and infections during pregnancy and asthma in offspring},
+  year      = {2020},
+  file      = {:Files/Rantala_et-al-2021-Maternal_antibioti_use_and_infections_during_pregnancy_and_offspring_asthma.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Eur Respiratory Soc},
+}
+
+@TechReport{huang2021physician,
+  author      = {Huang, Shan and Ullrich, Hannes and others},
+  institution = {DIW Berlin, German Institute for Economic Research},
+  title       = {Physician Effects in Antibiotic Prescribing: Evidence from Physician Exits},
+  year        = {2021},
+  file        = {:Files/Huang_Ullrich-2021-Physician_effects_in_antibiotic_prescribing.pdf:PDF},
+  groups      = {Antibiotics},
+}
+
+@TechReport{huang2021physician,
+  author      = {Huang, Shan and Ullrich, Hannes and others},
+  institution = {DIW Berlin, German Institute for Economic Research},
+  title       = {Physician Effects in Antibiotic Prescribing: Evidence from Physician Exits},
+  year        = {2021},
+}
+
+@Article{ribers2019battling,
+  author    = {Ribers, Michael A and Ullrich, Hannes},
+  title     = {Battling antibiotic resistance: can machine learning improve prescribing?},
+  year      = {2019},
+  file      = {:Files/Ribers_Ullrich-2019-Battling_antibiotic_resistance.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {DIW Berlin Discussion Paper},
+}
+
+@Misc{sievertsen2022antibiotics,
+  author = {van den Berg, Gerard and Bingley, Paul and Sievertsen, Hans Henrik},
+  title  = {Antibiotics in Early Childhood and Subsequent Cognitive Skills},
+  year   = {2022},
+  file   = {:Files/van_den_Berg_et_al-2022-Antibiotics_in_early_childhood_and_subsequent_cognitive_skills.pdf:PDF},
+  groups = {Antibiotics},
+}
+
+@Article{dekker2015inappropriate,
+  author    = {Dekker, Anne RJ and Verheij, Theo JM and van der Velden, Alike W},
+  journal   = {Family practice},
+  title     = {Inappropriate antibiotic prescription for respiratory tract indications: most prominent in adult patients},
+  year      = {2015},
+  number    = {4},
+  pages     = {401--407},
+  volume    = {32},
+  file      = {:Files/Dekker_et_al-2015-Inappropriate_antibiotic_prescription_for_respiratory_tract_indications.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Oxford University Press UK},
+}
+
+@Misc{aukrust2000smittevernloven,
+  author    = {Aukrust, K},
+  title     = {Smittevernloven: H{\aa}ndbok: Antibiotikabehandling i Allmennpraksis},
+  year      = {2000},
+  file      = {:Files/Aukrust-2000-Smittevernloven_handbok_antibiotikabehandling.pdf:PDF},
+  groups    = {Antibiotics},
+  publisher = {Oslo. Statens helsetilsyn},
+}
+
+@Article{adda2020resist,
+  author  = {Adda, Jérôme},
+  journal = {AEA Papers and Proceedings},
+  title   = {Preventing the Spread of Antibiotic Resistance},
+  year    = {2020},
+  month   = {May},
+  pages   = {255-59},
+  volume  = {110},
+  doi     = {10.1257/pandp.20201014},
+  file    = {:Files/Adda-2020-Preventing_the_spread_of_antibiotic_resistance.pdf:PDF},
+  groups  = {Antibiotics},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/pandp.20201014},
+}
+
+@Article{avery2019don,
+  author    = {Avery, Mallory and Giuntella, Osea and Jiao, Peiran},
+  title     = {Why Don't We Sleep Enough? A Field Experiment Among College Students},
+  file      = {:Files/Avery_et_al-2019-Why_dont_we_sleep_enough.pdf:PDF},
+  publisher = {IZA Discussion Paper},
+}
+
+@Article{chenroots,
+  author  = {Chen, Yiqun and Persson, Petra and Polyakova, Maria},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {The Roots of Health Inequality and the Value of Intra-Family Expertise},
+  file    = {:Files/Chen_et_al-2021-The_roots_of_health_inequality_and_the_value_of_intra_family_expertise.pdf:PDF},
+}
+
+@Article{owidgender,
+  author  = {Esteban Ortiz-Ospina and Max Roser},
+  journal = {Our World in Data},
+  title   = {Economic inequality by gender},
+  year    = {2018},
+  note    = {https://ourworldindata.org/economic-inequality-by-gender},
+  groups  = {Auxilliary},
+}
+
+@InProceedings{geiger2021association,
+  author       = {Geiger, Caroline K and Clapp, Mark A and Cohen, Jessica L},
+  booktitle    = {JAMA Health Forum},
+  title        = {Association of Prenatal Care Services, Maternal Morbidity, and Perinatal Mortality With the Advanced Maternal Age Cutoff of 35 Years},
+  year         = {2021},
+  number       = {12},
+  organization = {American Medical Association},
+  pages        = {e214044--e214044},
+  volume       = {2},
+  file         = {:Files/Geiger_et_al-2021-Association_of_prenatal_care_services.pdf:PDF},
+}
+
+@Article{johnson2016physicians,
+  author  = {Johnson, Erin M and Rehavi, M Marit},
+  journal = {American Economic Journal: Economic Policy},
+  title   = {Physicians treating physicians: Information and incentives in childbirth},
+  year    = {2016},
+  number  = {1},
+  pages   = {115--41},
+  volume  = {8},
+  file    = {:Files/Johnson_Rehavi-2016-Physicians_treating_physicians.pdf:PDF},
+}
+
+@Article{10.1257/jel.20201640,
+  author  = {Alfani, Guido},
+  journal = {Journal of Economic Literature},
+  title   = {Epidemics, Inequality, and Poverty in Preindustrial and Early Industrial Times},
+  year    = {2022},
+  month   = {March},
+  number  = {1},
+  pages   = {3-40},
+  volume  = {60},
+  doi     = {10.1257/jel.20201640},
+  file    = {:Files/Alfani-2022-Epidemics_inequality_and_poverty.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/jel.20201640},
+}
+
+@Article{10.1257/jel.20201639,
+  author  = {Jedwab, Remi and Johnson, Noel D. and Koyama, Mark},
+  journal = {Journal of Economic Literature},
+  title   = {The Economic Impact of the Black Death},
+  year    = {2022},
+  month   = {March},
+  number  = {1},
+  pages   = {132-78},
+  volume  = {60},
+  doi     = {10.1257/jel.20201639},
+  file    = {:Files/Jedwab_et_al-2022-The_economic_impact_of_the_black_death.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/jel.20201639},
+}
+
+@InProceedings{vogl2018dynamics,
+  author    = {Vogl, Tom S},
+  booktitle = {AEA Papers and Proceedings},
+  title     = {Dynamics of child mortality inequality},
+  year      = {2018},
+  pages     = {348--52},
+  volume    = {108},
+  file      = {:Files/Vogl-2018-Dynamics_of_child_mortality_inequality.pdf:PDF},
+}
+
+@Article{umberson2017death,
+  author    = {Umberson, Debra and Olson, Julie Skalamera and Crosnoe, Robert and Liu, Hui and Pudrovska, Tetyana and Donnelly, Rachel},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Death of family members as an overlooked source of racial disadvantage in the United States},
+  year      = {2017},
+  number    = {5},
+  pages     = {915--920},
+  volume    = {114},
+  file      = {:Files/Umberson_et_al-2017-Death_of_family_members.pdf:PDF},
+  publisher = {National Acad Sciences},
+}
+
+@Article{van2018case,
+  author    = {van Raalte, Alyson A and Sasson, Isaac and Martikainen, Pekka},
+  journal   = {Science},
+  title     = {The case for monitoring life-span inequality},
+  year      = {2018},
+  number    = {6418},
+  pages     = {1002--1004},
+  volume    = {362},
+  file      = {:Files/Raalte_van_et_al-2018-The_case_for_monitoring_life_span_inequality.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{peltzman2009mortality,
+  author  = {Peltzman, Sam},
+  journal = {Journal of Economic Perspectives},
+  title   = {Mortality inequality},
+  year    = {2009},
+  number  = {4},
+  pages   = {175--90},
+  volume  = {23},
+  file    = {:Files/Peltzman-2009-Mortality_inequality.pdf:PDF},
+}
+
+@Article{druedahl2020long,
+  author  = {Druedahl, Jeppe and Martinello, Alessandro},
+  journal = {The Review of Economics and Statistics},
+  title   = {Long-run saving dynamics: Evidence from unexpected inheritances},
+  year    = {2020},
+  pages   = {1--44},
+  file    = {:Files/Druedahl_et_al-2020-Long_run_saving_dynamics_evidence_from_unexpected_inheritances.pdf:PDF},
+}
+
+@Article{fadlon2021family,
+  author  = {Fadlon, Itzik and Nielsen, Torben Heien},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Family labor supply responses to severe health shocks: Evidence from Danish administrative records},
+  year    = {2021},
+  number  = {3},
+  pages   = {1--30},
+  volume  = {13},
+  file    = {:Files/Fadlon_Nielsen-2021-Family_labor_supply_responses_to_severe_health_shocks.pdf:PDF},
+}
+
+@Article{singh2021heuristics,
+  author    = {Singh, Manasvini},
+  journal   = {Science},
+  title     = {Heuristics in the delivery room},
+  year      = {2021},
+  number    = {6565},
+  pages     = {324--329},
+  volume    = {374},
+  file      = {:Files/Singh-2021-Heuristics_in_the_delivery_room.pdf:PDF},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{almond2010estimating,
+  author    = {Almond, Douglas and Doyle Jr, Joseph J and Kowalski, Amanda E and Williams, Heidi},
+  journal   = {The quarterly journal of economics},
+  title     = {Estimating marginal returns to medical care: Evidence from at-risk newborns},
+  year      = {2010},
+  number    = {2},
+  pages     = {591--634},
+  volume    = {125},
+  file      = {:Files/Almond_et_al-2010-Estimating_marginal_returns_to_medical_care.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{deryugina2021causal,
+  author  = {Deryugina, Tatyana and Molitor, David},
+  journal = {Journal of Economic Perspectives},
+  title   = {The causal effects of place on health and longevity},
+  year    = {2021},
+  number  = {4},
+  pages   = {147--70},
+  volume  = {35},
+  file    = {:Files/Deryugina_Molitor-2021-The_causal_effects_of_place_on_health_and_longevity.pdf:PDF},
+}
+
+@TechReport{knutsen2020distance,
+  author      = {Knutsen, Tora K and Modalsli, J{\o}rgen Heib{\o} and R{\o}nning, Marte},
+  institution = {Discussion Papers},
+  title       = {Distance and choice of field: Evidence from a Norwegian college expansion reform},
+  year        = {2020},
+  file        = {:Files/Knutsen_et_al-2020-Distance_and_choice_of_field.pdf:PDF},
+}
+
+@TechReport{cullen2015weaker,
+  author      = {Cullen, Mark R and Baiocchi, Michael and Eggleston, Karen and Loftus, Pooja and Fuchs, Victor},
+  institution = {National Bureau of Economic Research},
+  title       = {The weaker sex? Vulnerable men, resilient women, and variations in sex differences in mortality since 1900},
+  year        = {2015},
+  file        = {:Files/Cullen_et_al-2015-The_weaker_sex.pdf:PDF},
+}
+
+@Article{bratsberg2021male,
+  author  = {Bratsberg, Bernt and Kotsadam, Andreas and Walther, Selma},
+  journal = {Distribution and Drivers of Inequality (March 8, 2021)},
+  title   = {Male fertility: Facts, distribution and drivers of inequality},
+  year    = {2021},
+  file    = {:Files/Bratsberg_et_al-2021-Male_fertility_facts_distribution_and_drivers_inequality.pdf:PDF},
+}
+
+@Article{bhalotra2018fertility,
+  author  = {Bhalotra, Sonia and Venkataramani, Atheendar and Walther, Selma},
+  journal = {Available at SSRN 3213304},
+  title   = {Fertility and labor market responses to reductions in mortality},
+  year    = {2018},
+  file    = {:Files/Bhalotra_et_al-2021-Fertility_and_labor_market_responses_to_reductions_in_mortality.pdf:PDF},
+}
+
+@Article{kamhofer2019heterogeneity,
+  author    = {Kamh{\"o}fer, Daniel A and Schmitz, Hendrik and Westphal, Matthias},
+  journal   = {Journal of the European Economic Association},
+  title     = {Heterogeneity in marginal non-monetary returns to higher education},
+  year      = {2019},
+  number    = {1},
+  pages     = {205--244},
+  volume    = {17},
+  file      = {:Files/Kamhöfer_et_al-2019-Heterogeneity_in_marginal_non_monetary_returns_to_higher_education.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{modalsli2021multigenerational,
+  author    = {Modalsli, J{\o}rgen},
+  journal   = {Journal of Human Resources},
+  title     = {Multigenerational persistence: Evidence from 146 years of administrative data},
+  year      = {2021},
+  pages     = {1018--9825R2},
+  file      = {:Files/Modalsli-2016-Multigenerational_persistence.pdf:PDF},
+  publisher = {University of Wisconsin Press},
+}
+
+@Article{lipscomb2013development,
+  author  = {Lipscomb, Molly and Mobarak, A Mushfiq and Barham, Tania},
+  journal = {American Economic Journal: Applied Economics},
+  title   = {Development effects of electrification: Evidence from the topographic placement of hydropower plants in Brazil},
+  year    = {2013},
+  number  = {2},
+  pages   = {200--231},
+  volume  = {5},
+  file    = {:Files/Lipscomb_et_al-2013-Development_effects_of_electrification.pdf:PDF},
+}
+
+@Article{lewis2018infant,
+  author    = {Lewis, Joshua},
+  journal   = {The Journal of Economic History},
+  title     = {Infant health, women's fertility, and rural electrification in the United States, 1930--1960},
+  year      = {2018},
+  number    = {1},
+  pages     = {118--154},
+  volume    = {78},
+  file      = {:Files/Lewis-2018-Infant_health_womens_fertility_and_rural_electrification.pdf:PDF},
+  publisher = {Cambridge University Press},
+}
+
+@Article{abramitzky2021automated,
+  author  = {Abramitzky, Ran and Boustan, Leah and Eriksson, Katherine and Feigenbaum, James and P{\'e}rez, Santiago},
+  journal = {Journal of Economic Literature},
+  title   = {Automated linking of historical data},
+  year    = {2021},
+  number  = {3},
+  pages   = {865--918},
+  volume  = {59},
+  file    = {:Files/Abramitzky_et_al-2021-Automated_linking_of_historical_data.pdf:PDF},
+}
+
+@Article{borge2015local,
+  author    = {Borge, Lars-Erik and Parmer, Pernille and Torvik, Ragnar},
+  journal   = {Journal of Public Economics},
+  title     = {Local natural resource curse?},
+  year      = {2015},
+  pages     = {101--114},
+  volume    = {131},
+  file      = {:Files/Borge_et_al-2013-Local_natural_resource_curse.pdf:PDF},
+  publisher = {Elsevier},
+}
+
+@Article{song2020long,
+  author    = {Song, Xi and Massey, Catherine G and Rolf, Karen A and Ferrie, Joseph P and Rothbaum, Jonathan L and Xie, Yu},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Long-term decline in intergenerational mobility in the United States since the 1850s},
+  year      = {2020},
+  number    = {1},
+  pages     = {251--258},
+  volume    = {117},
+  publisher = {National Acad Sciences},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -5203,7 +5601,7 @@
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 StaticGroup:Antibiotics\;0\;0\;0xff00ffff\;\;\;;
+1 StaticGroup:Antibiotics\;0\;1\;0xff00ffff\;\;\;;
 1 KeywordGroup:Radio\;0\;title\;radio\;0\;0\;0\;0x990000ff\;\;\;;
 1 StaticGroup:Mental Health\;0\;1\;0x006400ff\;\;Literature related to mental health, physical, fetal origins hypothesis and the long term economic consequences of (mental) health shocks\;;
 1 StaticGroup:Auxilliary\;0\;1\;\;\;\;;
