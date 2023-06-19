@@ -1999,14 +1999,14 @@
   publisher = {JSTOR},
 }
 
-@Article{almond20061918,
+@Article{almond2006pandemic,
   author    = {Almond, Douglas},
-  title     = {Is the 1918 influenza pandemic over? Long-term effects of in utero influenza exposure in the post-1940 US population},
   journal   = {Journal of political Economy},
+  title     = {Is the 1918 influenza pandemic over? Long-term effects of in utero influenza exposure in the post-1940 US population},
   year      = {2006},
-  volume    = {114},
   number    = {4},
   pages     = {672--712},
+  volume    = {114},
   file      = {:Files/Almond-2006-Is_the_1918_influenza_pandemic_over.pdf:PDF},
   publisher = {The University of Chicago Press},
 }
@@ -3998,6 +3998,7 @@
   institution = {National Bureau of Economic Research},
   title       = {Parenthood, family friendly workplaces, and the gender gaps in early work careers},
   year        = {2018},
+  file        = {:Files/Hotz_et_al-2018-Parenthood_family_friendly_workplaces_and_the_gender_gaps_in_early_work_careers.pdf:PDF},
 }
 
 @TechReport{kuziemko2018mommy,
@@ -4005,6 +4006,7 @@
   institution = {National Bureau of Economic Research},
   title       = {The Mommy Effect: Do Women Anticipate the Employment Effects of Motherhood?},
   year        = {2018},
+  file        = {:Files/Kuziemko_et_al-2018-The_mommy_effect.pdf:PDF},
 }
 
 @Article{dodini2020monopsony,
@@ -4035,6 +4037,7 @@
   year      = {2019},
   pages     = {122--26},
   volume    = {109},
+  file      = {:Files/Kleven_et_al-2019-Child_penalities_across_countries.pdf:PDF},
 }
 
 @Article{chetty2020income,
@@ -4116,11 +4119,13 @@
 }
 
 @Article{arellano2020career,
-  author    = {Arellano-Bover, Jaime},
-  title     = {Career consequences of firm heterogeneity for young workers: First job and firm size},
-  year      = {2020},
-  file      = {:Files/Arellano_Bover-2020-Career_consequences_of_firm_heterogeneity_for_young_workers.pdf:PDF},
-  publisher = {IZA Discussion Paper},
+  author  = {Arellano-Bover, Jaime},
+  journal = {Journal of Labor Economics},
+  title   = {Career Consequences of Firm Heterogeneity for Young Workers: First Job and Firm Size},
+  year    = {2024},
+  month   = {April},
+  volume  = {forthcoming},
+  file    = {:Files/Arellano_Bover-2020-Career_consequences_of_firm_heterogeneity_for_young_workers.pdf:PDF},
 }
 
 @InProceedings{arellano2021gets,
@@ -6455,6 +6460,7 @@
   number    = {4},
   pages     = {1436--1464},
   volume    = {98},
+  file      = {:Files/Harding_Munk-2020-The_decline_of_intergenerational_incom_mobility_in_Denmark.pdf:PDF},
   publisher = {Oxford University Press},
 }
 
@@ -6462,6 +6468,7 @@
   author    = {Davis, Jonathan and Mazumder, Bhashkar},
   title     = {The decline in intergenerational mobility after 1980},
   year      = {2022},
+  file      = {:Files/Davis_Mazumder-2022-The_decline_in_intergenerational_mobility.pdf:PDF},
   publisher = {FRB of Chicago Working Paper No. WP-2017-5},
 }
 
@@ -6474,6 +6481,7 @@
   year      = {2004},
   booktitle = {Generational Income Mobility in North America and Europe},
   doi       = {10.1017/CBO9780511492549.007},
+  file      = {:Files/Blanden_et_al-2002-Changes_in_intergenerational_mobility_in_Britain.pdf:PDF},
   place     = {Cambridge},
 }
 
@@ -6507,7 +6515,7 @@
   publisher = {Nature Publishing Group},
 }
 
-@Article{chetty2022social,
+@Article{chetty2022social2,
   author    = {Chetty, Raj and Jackson, Matthew O and Kuchler, Theresa and Stroebel, Johannes and Hendren, Nathaniel and Fluegge, Robert B and Gong, Sara and Gonzalez, Federico and Grondin, Armelle and Jacob, Matthew and others},
   journal   = {Nature},
   title     = {Social capital II: determinants of economic connectedness},
@@ -6983,6 +6991,7 @@
   pages   = {59-66},
   volume  = {16},
   doi     = {10.1257/089533002760278712},
+  file    = {:Files/Solon-2002-Cross_country_differences_in_intergenerational_earnings_mobility.pdf:PDF},
   url     = {https://www.aeaweb.org/articles?id=10.1257/089533002760278712},
 }
 
@@ -7018,6 +7027,7 @@
   number      = {29289},
   type        = {Working Paper},
   doi         = {10.3386/w29289},
+  file        = {:Files/Jacome_et_al-2022-Mobility_for_all.pdf:PDF},
   series      = {Working Paper Series},
   url         = {http://www.nber.org/papers/w29289},
 }
@@ -7153,6 +7163,489 @@
   institution = {National Bureau of Economic Research},
   title       = {The Sweet Life: The Long-Term Effects of a Sugar-Rich Early Childhood},
   year        = {2022},
+  file        = {:Files/Gertler_Gracner-2022-The_sweet_life.pdf:PDF},
+}
+
+@Article{ludwig2013mop,
+  author  = {Ludwig, Jens and Duncan, Greg J. and Gennetian, Lisa A. and Katz, Lawrence F. and Kessler, Ronald C. and Kling, Jeffrey R. and Sanbonmatsu, Lisa},
+  journal = {American Economic Review},
+  title   = {Long-Term Neighborhood Effects on Low-Income Families: Evidence from Moving to Opportunity},
+  year    = {2013},
+  month   = {May},
+  number  = {3},
+  pages   = {226-31},
+  volume  = {103},
+  doi     = {10.1257/aer.103.3.226},
+  file    = {:Files/Ludwig_et_al-2013-Long-term_neighbourhood_effects_on_low_income_families.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/aer.103.3.226},
+}
+
+@Article{andresen2022causes,
+  author    = {Andresen, Martin Eckhoff and Nix, Emily},
+  journal   = {Journal of labor economics},
+  title     = {What causes the child penalty? Evidence from adopting and same-sex couples},
+  year      = {2022},
+  number    = {4},
+  pages     = {971--1004},
+  volume    = {40},
+  file      = {:Files/Andresen_Nix-2022-What_causes_the_child_penalty.pdf:PDF},
+  publisher = {The University of Chicago Press Chicago, IL},
+}
+
+@Article{angrist2006instrumental,
+  author    = {Angrist, Joshua D},
+  journal   = {Journal of Experimental Criminology},
+  title     = {Instrumental variables methods in experimental criminological research: what, why and how},
+  year      = {2006},
+  pages     = {23--44},
+  volume    = {2},
+  file      = {:Files/Angrist-2006-Instrumental_variables_methods_in_experimental_criminological_research.pdf:PDF},
+  publisher = {Springer},
+}
+
+@Article{silver2021haste,
+  author    = {Silver, David},
+  journal   = {The Review of Economic Studies},
+  title     = {Haste or waste? Peer pressure and productivity in the emergency department},
+  year      = {2021},
+  number    = {3},
+  pages     = {1385--1417},
+  volume    = {88},
+  file      = {:Files/Silver-2021-Haste_or_Waste.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@TechReport{curriephcomp2023,
+  author      = {Currie, Janet and Li, Anran and Schnell, Molly},
+  institution = {National Bureau of Economic Research},
+  title       = {The Effects of Competition on Physician Prescribing},
+  year        = {2023},
+  month       = {January},
+  number      = {30889},
+  type        = {Working Paper},
+  doi         = {10.3386/w30889},
+  file        = {:Files/Currie_et_al-2023-The_effectgs_of_competition_on_physician_prescribing.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w30889},
+}
+
+@Article{clemens2014physicians,
+  author    = {Clemens, Jeffrey and Gottlieb, Joshua D},
+  journal   = {American Economic Review},
+  title     = {Do physicians' financial incentives affect medical treatment and patient health?},
+  year      = {2014},
+  number    = {4},
+  pages     = {1320--1349},
+  volume    = {104},
+  file      = {:Files/Clemens_Gottlieb-2014-Do_physicians_financial_incentives_affect_medical_treatment_and_patient_health.pdf:PDF},
+  publisher = {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203},
+}
+
+@Article{agha2022drug,
+  author  = {Agha, Leila and Zeltzer, Dan},
+  journal = {American Economic Journal: Economic Policy},
+  title   = {Drug diffusion through peer networks: The influence of industry payments},
+  year    = {2022},
+  number  = {2},
+  pages   = {1--33},
+  volume  = {14},
+  file    = {:Files/Agha_Zeltzer-2022-Drug_diffusion_through_peer_networks.pdf:PDF},
+}
+
+@TechReport{alsan2022representation,
+  author      = {Alsan, Marcella and Durvasula, Maya and Gupta, Harsh and Schwartzstein, Joshua and Williams, Heidi L},
+  institution = {National Bureau of Economic Research},
+  title       = {Representation and Extrapolation: Evidence from Clinical Trials},
+  year        = {2022},
+  file        = {:Files/Alsan_et_al-2022-Representation_and_extrapolation.pdf:PDF},
+}
+
+@Misc{ssbnus2000,
+  author       = {{Statistics Norway}},
+  howpublished = {\url{https://www.ssb.no/a/publikasjoner/pdf/nos_c617/nos_c617.pdf}},
+  note         = {Accessed: February 20, 2023},
+  title        = {Norsk standard for utdanningsgruppering.},
+  year         = {2001},
+}
+
+@Article{collado2022estimating,
+  author    = {Collado, Dolores and Ortu{\~n}o-Ort{\'\i}n, Ignacio and Stuhler, Jan},
+  journal   = {The Review of Economic Studies, forthcoming},
+  title     = {Estimating intergenerational and assortative processes in extended family data},
+  year      = {2022},
+  file      = {:Files/Collado_et_al-2022-Estimating_intergenerational_and_assortative_processes_in_extended_family_data.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@TechReport{conwell2023more,
+  author      = {Conwell, Lucas J and Eckert, Fabian and Mobarak, Ahmed Mushfiq},
+  institution = {National Bureau of Economic Research},
+  title       = {More Roads or Public Transit? Insights from Measuring City-Center Accessibility},
+  year        = {2023},
+  file        = {:Files/Conwell_et_al-2023-More_roads_or_public_transit.pdf:PDF},
+}
+
+@TechReport{kleven2022geography,
+  author      = {Kleven, Henrik},
+  institution = {National Bureau of Economic Research},
+  title       = {The geography of child penalties and gender norms: Evidence from the United States},
+  year        = {2022},
+  file        = {:Files/Kleven-2023-The_geography_of_child_penalties_and_gender_norms.pdf:PDF},
+}
+
+@Article{cattaneo2015randomization,
+  author    = {Cattaneo, Matias D and Frandsen, Brigham R and Titiunik, Rocio},
+  journal   = {Journal of Causal Inference},
+  title     = {Randomization inference in the regression discontinuity design: An application to party advantages in the US Senate},
+  year      = {2015},
+  number    = {1},
+  pages     = {1--24},
+  volume    = {3},
+  file      = {:Files/Cattaneo_et_al-2014-Randomization_inference_in_the_regression_discontinuity_design.pdf:PDF},
+  publisher = {De Gruyter},
+}
+
+@TechReport{ludwigmullainathan2023,
+  author      = {Ludwig, Jens and Mullainathan, Sendhil},
+  institution = {National Bureau of Economic Research},
+  title       = {Machine Learning as a Tool for Hypothesis Generation},
+  year        = {2023},
+  month       = {March},
+  number      = {31017},
+  type        = {Working Paper},
+  doi         = {10.3386/w31017},
+  file        = {:Files/Ludwig_Mullainathan-2023-Machine_learning_as_a_tool_for_hypothesis_generation.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w31017},
+}
+
+@Unpublished{schwabsingh2023,
+  author      = {Steve, Schwab and Manasvini, Singh},
+  note        = {Unpublished working paper},
+  title       = {How Power Shapes Behavior: Evidence from Physicians},
+  year        = {2023},
+  address     = {Amherst, Massachusetts},
+  file        = {:Files/Schwab_Singh-2023-How_power_shapes_behavior.pdf:PDF},
+  institution = {University of Massachusetts Amhers},
+}
+
+@Article{Lynch1998,
+  author    = {Lynch, Lisa M and Black, Sandra E},
+  journal   = {ILR Review},
+  title     = {Beyond the incidence of employer-provided training},
+  year      = {1998},
+  number    = {1},
+  pages     = {64--81},
+  volume    = {52},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
+
+@TechReport{bazzifrontier2023,
+  author      = {Bazzi, Samuel and Brodeur, Abel and Fiszbein, Martin and Haddad, Joanne},
+  institution = {National Bureau of Economic Research},
+  title       = {Frontier History and Gender Norms in the United States},
+  year        = {2023},
+  month       = {March},
+  number      = {31079},
+  type        = {Working Paper},
+  doi         = {10.3386/w31079},
+  file        = {:Files/Bazzi_et_al-2023-Frontier_history_and_gender_norms_in_the_US.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w31079},
+}
+
+@TechReport{chan2022productivity,
+  author      = {Chan, David C and Chen, Yiqun},
+  institution = {National Bureau of Economic Research},
+  title       = {The Productivity of Professions: Evidence from the Emergency Department},
+  year        = {2022},
+  file        = {:Files/Chan_Chen-2022-The_productivity_of_professions.pdf:PDF},
+}
+
+@Book{goldsteen2017jonas,
+  author    = {Goldsteen, Raymond L and Goldsteen, Karen and Benjamin Goldsteen, MBA},
+  publisher = {Springer Publishing Company},
+  title     = {Jonas' introduction to the US health care system},
+  year      = {2017},
+  edition   = {8th},
+  file      = {:Files/Goldsteen_et_al-2017-Jonas_introduction_to_the_US_health_care_system.pdf:PDF},
+}
+
+@Article{chan2022mortality,
+  author    = {Chan, David C and Danesh, Kaveh and Costantini, Sydney and Card, David and Taylor, Lowell and Studdert, David M},
+  journal   = {bmj},
+  title     = {Mortality among US veterans after emergency visits to Veterans Affairs and other hospitals: retrospective cohort study},
+  year      = {2022},
+  volume    = {376},
+  file      = {:Files/Chan_et_al-2022-Mortality_among_US_veterans_after_emergency_visits.pdf:PDF},
+  publisher = {British Medical Journal Publishing Group},
+}
+
+@Article{doyle2015measuring,
+  author    = {Doyle Jr, Joseph J and Graves, John A and Gruber, Jonathan and Kleiner, Samuel A},
+  journal   = {Journal of Political Economy},
+  title     = {Measuring returns to hospital care: Evidence from ambulance referral patterns},
+  year      = {2015},
+  number    = {1},
+  pages     = {170--214},
+  volume    = {123},
+  file      = {:Files/Doyle_et_al-2015-Measuring_returns_to_hospital_care.pdf:PDF},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@TechReport{johnson2016doctor,
+  author      = {Johnson, Erin and Rehavi, M Marit and Chan, David C and Carusi, Daniela and others},
+  institution = {National Bureau of Economic Research},
+  title       = {A doctor will see you now: Physician-patient relationships and clinical decisions},
+  year        = {2016},
+  file        = {:Files/Johnson_et_al-2022-A_doctor_will_see_you_now.pdf:PDF},
+}
+
+@Article{finkelstein2016sources,
+  author    = {Finkelstein, Amy and Gentzkow, Matthew and Williams, Heidi},
+  journal   = {The quarterly journal of economics},
+  title     = {Sources of geographic variation in health care: Evidence from patient migration},
+  year      = {2016},
+  number    = {4},
+  pages     = {1681--1726},
+  volume    = {131},
+  file      = {:Files/Finkelstein_et_al-2016-Sources_of_geographic_variation_in_health_care.pdf:PDF},
+  publisher = {MIT Press},
+}
+
+@Article{chowdhury2007systematic,
+  author    = {Chowdhury, MM and Dagash, H and Pierro, A},
+  journal   = {Journal of British Surgery},
+  title     = {A systematic review of the impact of volume of surgery and specialization on patient outcome},
+  year      = {2007},
+  number    = {2},
+  pages     = {145--161},
+  volume    = {94},
+  file      = {:Files/Chowdhury_Pierro-2007-A_systematic_review_of_the_impact_of_volume.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@TechReport{gruberdying2023,
+  author      = {Gruber, Jonathan and Howard, David H and Leder-Luis, Jetson and Caputi, Theodore L},
+  institution = {National Bureau of Economic Research},
+  title       = {Dying or Lying? For-Profit Hospices and End of Life Care},
+  year        = {2023},
+  month       = {March},
+  number      = {31035},
+  type        = {Working Paper},
+  doi         = {10.3386/w31035},
+  file        = {:Files/Gruber_et_al-2023-Dying_or_lying.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w31035},
+}
+
+@Article{mcclellan1994does,
+  author    = {McClellan, Mark and McNeil, Barbara J and Newhouse, Joseph P},
+  journal   = {Jama},
+  title     = {Does more intensive treatment of acute myocardial infarction in the elderly reduce mortality?: analysis using instrumental variables},
+  year      = {1994},
+  number    = {11},
+  pages     = {859--866},
+  volume    = {272},
+  file      = {:Files/McClellan_et_al-1994-Does_more_intensive_treatment_of_AMI_reduc_mortality.pdf:PDF},
+  publisher = {American Medical Association},
+}
+
+@Article{cassel2011specialization,
+  author    = {Cassel, Christine K and Reuben, David B},
+  journal   = {The New England journal of medicine},
+  title     = {Specialization, subspecialization, and subsubspecialization in internal medicine},
+  year      = {2011},
+  number    = {12},
+  pages     = {1169},
+  volume    = {364},
+  file      = {:Files/Cassel_et_al-2011-Specialization_subspecialization_and_subsubspecialization_in_internal_medicine.pdf:PDF},
+  publisher = {Massachusetts Medical Society},
+}
+
+@Article{eliason2020acquisitions,
+  author    = {Eliason, Paul J and Heebsh, Benjamin and McDevitt, Ryan C and Roberts, James W},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {How acquisitions affect firm behavior and performance: Evidence from the dialysis industry},
+  year      = {2020},
+  number    = {1},
+  pages     = {221--267},
+  volume    = {135},
+  file      = {:Files/Eliason_et_al-2020-How_acquisitions_affect_firm_behavior_and_performance.pdf:PDF},
+  publisher = {Oxford University Press},
+}
+
+@Article{porter2009communities,
+  author  = {Porter, Mason A and Onnela, Jukka-Pekka and Mucha, Peter J},
+  journal = {Notices of the AMS},
+  title   = {Communities in networks},
+  year    = {2009},
+  number  = {9},
+  pages   = {1082--1097},
+  volume  = {56},
+  file    = {:Files/Porter_et-al-2009-Communities_in_networks.pdf:PDF},
+}
+
+@Book{weber1978economy,
+  author    = {Weber, Max},
+  publisher = {University of California press},
+  title     = {Economy and society: An outline of interpretive sociology},
+  year      = {1978},
+  volume    = {2},
+}
+
+@Article{almaas2020cutthroat,
+  author    = {Alm{\aa}s, Ingvild and Cappelen, Alexander W and Tungodden, Bertil},
+  journal   = {Journal of Political Economy},
+  title     = {Cutthroat capitalism versus cuddly socialism: Are Americans more meritocratic and efficiency-seeking than Scandinavians?},
+  year      = {2020},
+  number    = {5},
+  pages     = {1753--1788},
+  volume    = {128},
+  file      = {:Files/Almas_et_al-Cutthroat_capitalism_versus_cuddly_socialism.pdf:PDF},
+  publisher = {The University of Chicago Press Chicago, IL},
+}
+
+@Article{sacerdote2001peer,
+  author    = {Sacerdote, Bruce},
+  journal   = {The Quarterly journal of economics},
+  title     = {Peer effects with random assignment: Results for Dartmouth roommates},
+  year      = {2001},
+  number    = {2},
+  pages     = {681--704},
+  volume    = {116},
+  publisher = {MIT Press},
+}
+
+@Misc{oecd2017health,
+  author    = {OECD},
+  title     = {Health at a Glance 2017},
+  year      = {2017},
+  publisher = {OECD Publishing},
+  url       = {https://www.oecd-ilibrary.org/social-issues-migration-health/health-at-a-glance-2017_health_glance-2017-en},
+}
+
+@TechReport{kirkeboen2021college,
+  author      = {Kirkeb{\o}en, Lars and Leuven, Edwin and Mogstad, Magne},
+  institution = {National Bureau of Economic Research},
+  title       = {College as a marriage market},
+  year        = {2021},
+  file        = {:Files/Kirkeboen_et_al-2022-College_as_a_marriage_market.pdf:PDF},
+}
+
+@Article{monstad2008education,
+  author    = {Monstad, Karin and Propper, Carol and Salvanes, Kjell G},
+  journal   = {The Scandinavian Journal of Economics},
+  title     = {Education and fertility: Evidence from a natural experiment},
+  year      = {2008},
+  number    = {4},
+  pages     = {827--852},
+  volume    = {110},
+  file      = {:Files/Monstad_et_al-2008-Education_and_fertility.pdf:PDF},
+  publisher = {Wiley Online Library},
+}
+
+@Article{karlson2021making,
+  author    = {Karlson, Kristian and Landers{\o}, Rasmus},
+  title     = {The making and unmaking of opportunity: Educational mobility in 20th century-denmark},
+  year      = {2021},
+  publisher = {IZA Discussion Paper},
+}
+
+@Article{nilsson2017alcohol,
+  author    = {Nilsson, J Peter},
+  journal   = {Journal of Political Economy},
+  title     = {Alcohol availability, prenatal conditions, and long-term economic outcomes},
+  year      = {2017},
+  number    = {4},
+  pages     = {1149--1207},
+  volume    = {125},
+  file      = {:Files/Nilsson-2017-Alcohol_availability_prenatal_conditions_and_long_term_economic_outcomes.pdf:PDF},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@Article{baicker2023universal,
+  author  = {Baicker, Katherine and Chandra, Amitabh and Shepard, Mark},
+  journal = {Journal of Economic Perspectives},
+  title   = {Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing a Social Floor?},
+  year    = {2023},
+  month   = {May},
+  number  = {2},
+  pages   = {99-122},
+  volume  = {37},
+  doi     = {10.1257/jep.37.2.99},
+  file    = {:Files/Baicker_et_al-2023-Achieving_universal_health_insurance_coverage_in_the_US.pdf:PDF},
+  url     = {https://www.aeaweb.org/articles?id=10.1257/jep.37.2.99},
+}
+
+@TechReport{doylephysician2020,
+  author      = {Doyle, Joseph J, Jr.},
+  institution = {National Bureau of Economic Research},
+  title       = {Physician Characteristics and Patient Survival: Evidence from Physician Availability},
+  year        = {2020},
+  month       = {July},
+  number      = {27458},
+  type        = {Working Paper},
+  doi         = {10.3386/w27458},
+  file        = {:Files/Doyle-2020-Physician_characteristics_and_patient_survival.pdf:PDF},
+  series      = {Working Paper Series},
+  url         = {http://www.nber.org/papers/w27458},
+}
+
+@Article{clemens2017shadow,
+  author    = {Clemens, Jeffrey and Gottlieb, Joshua D},
+  journal   = {Journal of Political Economy},
+  title     = {In the shadow of a giant: Medicare’s influence on private physician payments},
+  year      = {2017},
+  number    = {1},
+  pages     = {1--39},
+  volume    = {125},
+  file      = {:Files/Clemens_Gottlieb-2017-In_the_shadow_of_a_giant.pdf:PDF},
+  publisher = {University of Chicago Press Chicago, IL},
+}
+
+@Article{barker1992fetal,
+  author  = {Barker, DJP and Robinson, RJ},
+  journal = {British Medical Journal, London},
+  title   = {Fetal and infant origins of adult disease: papers written by the Medical Research Council Environmental Epidemiology Unit, University of South Hampton, DJP Barker},
+  year    = {1992},
+  number  = {8},
+  pages   = {10},
+  volume  = {2},
+}
+
+@Article{mullainathan2017machine,
+  author    = {Mullainathan, Sendhil and Spiess, Jann},
+  journal   = {Journal of Economic Perspectives},
+  title     = {Machine learning: an applied econometric approach},
+  year      = {2017},
+  number    = {2},
+  pages     = {87--106},
+  volume    = {31},
+  file      = {:Files/Mullainathan_Spiess-2017-Machine_learning_an_applied_econometric_approach.pdf:PDF},
+  publisher = {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2418},
+}
+
+@Article{aizer2014intergenerational,
+  author    = {Aizer, Anna and Currie, Janet},
+  journal   = {science},
+  title     = {The intergenerational transmission of inequality: Maternal disadvantage and health at birth},
+  year      = {2014},
+  number    = {6186},
+  pages     = {856--861},
+  volume    = {344},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{allcott2019food,
+  author    = {Allcott, Hunt and Diamond, Rebecca and Dub{\'e}, Jean-Pierre and Handbury, Jessie and Rahkovsky, Ilya and Schnell, Molly},
+  journal   = {The Quarterly Journal of Economics},
+  title     = {Food deserts and the causes of nutritional inequality},
+  year      = {2019},
+  number    = {4},
+  pages     = {1793--1844},
+  volume    = {134},
+  publisher = {Oxford University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
